@@ -187,7 +187,7 @@ https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-55 tvg-logo="" group-title="India • Bangla*",Bangla+ HD
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
-#EXTINF:-55 tvg-logo="" group-title="India • Bangla*",Orange Bangla
+#EXTINF:-55 tvg-logo="https://i.postimg.cc/FzV5CHyp/ob.webp" group-title="India • Bangla*",Orange Bangla
 https://cdn-4.pishow.tv/live/1499/master.m3u8
 
 #EXTINF:-56 tvg-logo="https://i.postimg.cc/Tw0FcNvQ/sony8.png" group-title="India • Bangla*",Sony Aath
