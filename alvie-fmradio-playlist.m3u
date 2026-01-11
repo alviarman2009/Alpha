@@ -105,14 +105,12 @@ https://tplay.live/out/bangladesh/satv.index.m3u8
 #EXTINF:-27 tvg-logo="https://i.postimg.cc/hGnLPyWF/news24.png" group-title="Bangladesh*",News24 TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-28 tvg-logo="https://i.postimg.cc/LXHtyKYR/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.webp" group-title="Bangladesh*",Bijoy TV
+#EXTINF:-28 tvg-logo="https://i.postimg.cc/1XjB6MKr/bijoy.png" group-title="Bangladesh*",Bijoy TV
 https://tplay.live/out/bangladesh/bijoytv.index.m3u8
 
 #EXTINF:-29 tvg-logo="https://i.postimg.cc/W1g0TbgQ/757a328e-70d6-45de-b093-0a843c69ade7.webp" group-title="Bangladesh*",Bangla TV
 
 #EXTINF:-30 tvg-logo="https://i.postimg.cc/HWr3cMMZ/Logo-of-Nagorik-TV-svg.png" group-title="Bangladesh*",Nagorik TV
-#https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-http://103.89.248.22:8082/NAGORIK-TV/index.fmp4.m3u8?token=26374cd55a0de325d45501e65b90768cdfd0b232-2ecd048dbb989a14cc1e32e971a404fa-1768042521-1768031721
 
 #EXTINF:-31 tvg-logo="https://i.postimg.cc/cJ7cRqMh/anandatv.png" group-title="Bangladesh*",Ananda TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
@@ -120,7 +118,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-32 tvg-logo="https://i.postimg.cc/zGVWNbyG/gtv.png" group-title="Bangladesh*",Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 
-#EXTINF:-32 tvg-logo="https://i.postimg.cc/Y9nWb4BD/2ff058e1-630f-4657-8dc6-b677e65642c5.webp" group-title="Bangladesh*",Global TV
+#EXTINF:-32 tvg-logo="https://i.postimg.cc/02SDc8kL/gtv.png" group-title="Bangladesh*",Global TV
 https://tplay.live/out/bangladesh/globaltv.index.m3u8
 
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/mDcGCpYw/nexus.png" group-title="Bangladesh*",Nexus TV
@@ -143,7 +141,7 @@ https://tvsen4.aynaott.com/durontotv/index.m3u8
 #EXTINF:-38 tvg-logo="https://i.postimg.cc/7LRKDrHB/metv.png"group-title="Bangladesh*", ME TV
 https://iptvbd.live/metv1080/1080.m3u8
 
-#EXTINF:-39 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/mb.jpg" group-title="Bangladesh*",Music Bangla
+#EXTINF:-39 tvg-logo="https://i.postimg.cc/XYMcbr1Y/mbtv.png" group-title="Bangladesh*",Music Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla2025.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-40 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg" group-title="Bangladesh*",Movie Bangla
