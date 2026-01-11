@@ -100,11 +100,13 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
 
 #EXTINF:-26 tvg-logo="https://i.postimg.cc/vH1jsjXw/SA-TV-Logo.png" group-title="Bangladesh*",SA TV
+https://tplay.live/out/bangladesh/satv.index.m3u8
 
 #EXTINF:-27 tvg-logo="https://i.postimg.cc/hGnLPyWF/news24.png" group-title="Bangladesh*",News24 TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/LXHtyKYR/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.webp" group-title="Bangladesh*",Bijoy TV
+https://tplay.live/out/bangladesh/bijoytv.index.m3u8
 
 #EXTINF:-29 tvg-logo="https://i.postimg.cc/W1g0TbgQ/757a328e-70d6-45de-b093-0a843c69ade7.webp" group-title="Bangladesh*",Bangla TV
 
@@ -116,8 +118,13 @@ http://103.89.248.22:8082/NAGORIK-TV/index.fmp4.m3u8?token=26374cd55a0de325d4550
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-32 tvg-logo="https://i.postimg.cc/zGVWNbyG/gtv.png" group-title="Bangladesh*",Green TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 
 #EXTINF:-32 tvg-logo="https://i.postimg.cc/Y9nWb4BD/2ff058e1-630f-4657-8dc6-b677e65642c5.webp" group-title="Bangladesh*",Global TV
+https://tplay.live/out/bangladesh/globaltv.index.m3u8
+
+#EXTINF:-28 tvg-logo="https://i.postimg.cc/mDcGCpYw/nexus.png" group-title="Bangladesh*",Nexus TV
+https://tplay.live/out/bangladesh/nexustv.index.m3u8
 
 #EXTINF:-33 tvg-logo="https://i.postimg.cc/YqqqkQsq/channels.png" group-title="Bangladesh*",Channel S HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8
