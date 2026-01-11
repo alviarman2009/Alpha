@@ -159,6 +159,9 @@ https://tplay.live/originals/bengali-beats/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZgXvdVJ/ktv.webp" group-title="Bangladesh*",Khushboo Bangla SD
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 
+#EXTINF:-28 tvg-logo="https://i.postimg.cc/ZYF7Ytyz/srktv.jpg" group-title="Bangladesh*",Srk TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
+
 #EXTINF:-40 tvg-logo="https://i.postimg.cc/4dM7krLF/Logo-tsports.jpg" group-title="Bangladesh*",T Sports
 http://103.89.248.22:8082/1LIVE/index.fmp4.m3u8?token=fef5f58d759c12a53a52ae1ee62bd508491200e9-a80840dc8b6e5a09483de26ecf259ed6-1768042079-1768031279
 
@@ -245,6 +248,7 @@ https://cdn-4.pishow.tv/live/969/master.m3u8
 https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-55 tvg-logo="https://i.postimg.cc/bJrHKm2B/cbhd.png" group-title="India • Bangla*",Colors Bangla HD
+https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 
 #EXTINF:-55 tvg-logo="https://i.postimg.cc/zvCWDjP2/bdplus.jpg" group-title="India • Bangla*",Bangla+ HD
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
@@ -267,8 +271,9 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sx6F36nx/e10b.png" group-title="India • Bangla*", Enterr10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
-#EXTINF:-80 tvg-logo="" group-title="India • Bangla*", Bengali Beats
-https://tplay.live/originals/bengali-beats/index.m3u8
+#EXTINF:-28 tvg-logo="https://i.postimg.cc/k5JYL7cS/rb.png" group-title="India • Bangla*",Ruposhi Bangla
+https://cdn-4.pishow.tv/live/1039/master.m3u8
+
 
 INDIA • Hindi*
 #EXTINF:-83 tvg-logo="https://i.postimg.cc/MT050nV8/9xm.png" group-title="India • Hindi*",9XM
@@ -279,6 +284,27 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5h6wGYD/B4U-Music.png" group-title="India • Hindi*",B4U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
+
+#EXTINF:-28 tvg-logo="https://i.postimg.cc/FsSjF061/b4uk.png" group-title="India • Hindi*",B4U Kadak
+https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+
+#EXTINF:-28 tvg-logo="https://i.postimg.cc/QNf8zMJK/bm.png" group-title="India • Hindi*",Bollywood Masala
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8
+
+#EXTINF:-28 tvg-logo="" group-title="India • Hindi*",The Movie Club HD
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+
+#EXTINF:-28 tvg-logo="" group-title="India • Hindi*",The Movie Club SD
+https://pb-dkdpz5so0aqqr.akamaized.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dkdpz5so0aqqr/../../../manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dkdpz5so0aqqr/6ddcb954-4369-4fa6-909d-f35b5e84ad60/1.m3u8
+
+#EXTINF:-28 tvg-logo="https://i.postimg.cc/k4Db0S8D/smrbol.png" group-title="India • Hindi*",Shemaroo Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/playlist.m3u8
+
+#EXTINF:-28 tvg-logo="https://i.postimg.cc/BvSDCkng/blyflx.png" group-title="India • Hindi*",BollyFlix
+https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
+
+#EXTINF:-28 tvg-logo="https://i.postimg.cc/XNmhXSVc/ddn.png" group-title="India • Hindi*",DD National
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/VL2t6Y0M/Music-India.png" group-title="India • Hindi*",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
