@@ -58,9 +58,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-18 tvg-logo="https://i.postimg.cc/mDpStLVF/ntv.png" group-title="Bangladesh*",NTV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
-EXTINF:-0 tvg-logo="" group-title="Bangladesh*",NTV UK
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh*",NTV UK
 
-EXTINF:-0 tvg-logo="https://i.postimg.cc/3rs3vgk1/btv.png" group-title="Bangladesh*",BTV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rs3vgk1/btv.png" group-title="Bangladesh*",BTV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-19 tvg-logo="https://i.postimg.cc/3rs3vgk1/btv.png" group-title="Bangladesh*",BTV
@@ -94,7 +94,7 @@ EXTINF:-27 tvg-logo="https://i.postimg.cc/1R8ffhmP/deepto.png" group-title="Bang
 #EXTINF:-27 tvg-logo="https://i.postimg.cc/1R8ffhmP/deepto.png" group-title="Bangladesh*",Deepto TV SD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
 
-EXTINF:-28 tvg-logo="https://i.postimg.cc/ZqYmmmRn/Channel9.png" group-title="Bangladesh*",Channel 9 HD
+#EXTINF:-28 tvg-logo="https://i.postimg.cc/ZqYmmmRn/Channel9.png" group-title="Bangladesh*",Channel 9 HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
 
 #EXTINF:-29 tvg-logo="https://i.postimg.cc/jqPHVYJS/asian.png" group-title="Bangladesh*",Asian TV
@@ -150,7 +150,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyQkFTjr/rbtv.webp" group-title="Bangladesh*",Ruposhi Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ruposhibangla.stream/tracks-v1a1/mono.m3u8
 
-EXTINF:-1 tvg-logo="https://i.postimg.cc/RFxN39mq/nantv.png" group-title="Bangladesh*",Nan TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFxN39mq/nantv.png" group-title="Bangladesh*",Nan TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZgXvdVJ/ktv.webp" group-title="Bangladesh*",Khushboo Bangla SD
@@ -159,8 +159,8 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/ZYF7Ytyz/srktv.jpg" group-title="Bangladesh*",Srk TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
 
-EXTINF:-40 tvg-logo="https://i.postimg.cc/4dM7krLF/Logo-tsports.jpg" group-title="Bangladesh*",T Sports
-http://103.89.248.22:8082/1LIVE/index.fmp4.m3u8?token=fef5f58d759c12a53a52ae1ee62bd508491200e9-a80840dc8b6e5a09483de26ecf259ed6-1768042079-1768031279
+#EXTINF:-40 tvg-logo="https://i.postimg.cc/4dM7krLF/Logo-tsports.jpg" group-title="Bangladesh*",T Sports
+#http://103.89.248.22:8082/1LIVE/index.fmp4.m3u8?token=fef5f58d759c12a53a52ae1ee62bd508491200e9-a80840dc8b6e5a09483de26ecf259ed6-1768042079-1768031279
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmTwVJGM/ibtv.jpg" group-title="Bangladesh*",iBTV USA
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ibtvus.stream/tracks-v1a1/mono.m3u8
