@@ -1,33 +1,33 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGby1RJJ/itv.png" group-title="Bangladesh*",Independent Television
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGby1RJJ/itv.png" group-title="Bangladesh*",Independent Television¹
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
-#EXTINF:-2 tvg-logo="https://i.postimg.cc/Rh8nzqd3/c24.png" group-title="Bangladesh*",Channel 24 HD
+#EXTINF:-2 tvg-logo="https://i.postimg.cc/Rh8nzqd3/c24.png" group-title="Bangladesh*",Channel 24 HD¹
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
-#EXTINF:-3 tvg-logo="https://i.postimg.cc/C51SsNjX/somoytv.png" group-title="Bangladesh*",Somoy TV HD
+#EXTINF:-3 tvg-logo="https://i.postimg.cc/C51SsNjX/somoytv.png" group-title="Bangladesh*",Somoy TV HD¹
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
-#EXTINF:-4 tvg-logo="https://i.postimg.cc/13YpYr7R/ekattortv.png" group-title="Bangladesh*",Ekattor TV HD
+#EXTINF:-4 tvg-logo="https://i.postimg.cc/13YpYr7R/ekattortv.png" group-title="Bangladesh*",Ekattor TV HD¹
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
-#EXTINF:-5 tvg-logo="https://i.postimg.cc/tgrsQ2Xb/jamuna.png" group-title="Bangladesh*",Jamuna TV HD
+#EXTINF:-5 tvg-logo="https://i.postimg.cc/tgrsQ2Xb/jamuna.png" group-title="Bangladesh*",Jamuna TV HD¹
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:-6 tvg-logo="https://i.postimg.cc/DfCrgwr4/dbc.png" group-title="Bangladesh*",DBC News HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
 
-#EXTINF:-7 tvg-logo="https://i.postimg.cc/N0JRNtF2/atnn.png" group-title="Bangladesh*",ATN News HD
+#EXTINF:-7 tvg-logo="https://i.postimg.cc/N0JRNtF2/atnn.png" group-title="Bangladesh*",ATN News HD¹
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
-#EXTINF:-8 tvg-logo="https://i.postimg.cc/gj6jHFLk/atnb.png"group-title="Bangladesh*",ATN Bangla HD
+#EXTINF:-8 tvg-logo="https://i.postimg.cc/gj6jHFLk/atnb.png"group-title="Bangladesh*",ATN Bangla HD¹
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.postimg.cc/jjtskTbh/atnuk.png" group-title="Bangladesh*",ATN Bangla UK SD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-9 tvg-logo="https://i.postimg.cc/SRyJFCc9/channeli.png" group-title="Bangladesh*",Channel i HD
+#EXTINF:-9 tvg-logo="https://i.postimg.cc/SRyJFCc9/channeli.png" group-title="Bangladesh*",Channel i HD¹
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 #EXTINF:-10 tvg-logo="https://i.postimg.cc/4x3dW99r/mtv.jpg" group-title="Bangladesh*",Maasranga Television
@@ -46,7 +46,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-16 tvg-logo="https://i.postimg.cc/T3jqnqC8/gtv.png" group-title="Bangladesh*",Gazi Television HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-13 tvg-logo="https://i.postimg.cc/BnxktVyC/Banglavision.png" group-title="Bangladesh*",BanglaVision HD
+#EXTINF:-13 tvg-logo="https://i.postimg.cc/BnxktVyC/Banglavision.png" group-title="Bangladesh*",BanglaVision HD¹
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
 #EXTINF:-14 tvg-logo="https://i.postimg.cc/BvV1TC7h/ekhon.png" group-title="Bangladesh*",Ekhon TV
@@ -54,7 +54,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-17 tvg-logo="https://i.postimg.cc/9XvnpbPS/rtv.png" group-title="Bangladesh*",RTV
 
-#EXTINF:-18 tvg-logo="https://i.postimg.cc/mDpStLVF/ntv.png" group-title="Bangladesh*",NTV HD
+#EXTINF:-18 tvg-logo="https://i.postimg.cc/mDpStLVF/ntv.png" group-title="Bangladesh*",NTV HD¹
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh*",NTV UK
@@ -88,6 +88,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-27 tvg-logo="https://i.postimg.cc/1R8ffhmP/deepto.png" group-title="Bangladesh*",Deepto TV SD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
+
+#EXTINF:-27 tvg-logo="https://i.postimg.cc/1R8ffhmP/deepto.png" group-title="Bangladesh*",Deepto TV HD¹
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
 #EXTINF:-29 tvg-logo="https://i.postimg.cc/jqPHVYJS/asian.png" group-title="Bangladesh*",Asian TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
@@ -196,12 +200,14 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-41 tvg-logo="https://i.postimg.cc/zGrZZWt6/desitv.png"group-title="Bangladesh*",Deshi TV Canada
 http://208.86.19.13:81/514.stream/index.m3u8
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-42 tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/05/Jhankartv.jpg"group-title="Bangladesh*",Jhankar TV Canada
 https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0mpQrB0/dptv.png" group-title="Bangladesh*",Discover Pakistan HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/tracks-v1a1/mono.m3u8
+https://ml-pull-dvc-myco.io:2096/DISCOVER_PAKISTAN/index.m3u8
 
 
 #EXTINF:-53 tvg-logo="https://i.postimg.cc/t4Wth1hX/z24g.png" group-title="India • Bangla*",Zee 24 Ghanta
@@ -268,6 +274,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vBYSD7x7/starj.png" group-title="India • Bangla*",Star Jalsha HD
 
 #EXTINF:-55 tvg-logo="https://i.postimg.cc/bJrHKm2B/cbhd.png" group-title="India • Bangla*",Colors Bangla HD
+
 
 
 #EXTINF:-83 tvg-logo="https://i.postimg.cc/MT050nV8/9xm.png" group-title="India • Hindi*",9XM SD
@@ -370,6 +377,7 @@ https://pb-dkdpz5so0aqqr.akamaized.net:443/v1/master/3722c60a815c199d9c0ef36c5b7
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/playlist.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJq9wk0H/alj.png" group-title="International*",Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
@@ -412,7 +420,8 @@ https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/pLRFtgQG/vevo.png" group-title="International*",Vevo TV
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
 
-#DATE: Thursday 25 September, 2025 at 05:30:36 am
+
+
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="SONAY LIVE" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
 https://ranapk-com-smsp.spidy.online/SLIV/rolex.php?id=2011671-b/SETHD/master.m3u8?hdnea=exp=1768285801~acl=/*~id=2ff3e0b557a2b142b6ac059fca06dbb8-1768242600203~hmac=6048d5d533d774ae93119f2c9fa3c13c1940a22b4dcc8bb7c3ff3f9ea2634c12|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
 
@@ -478,6 +487,7 @@ https://ranapk-com-smsp.spidy.online/SLIV/rolex.php?id=2020594-b/SONYSIXSD/maste
 
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="SONAY LIVE" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://ranapk-com-smsp.spidy.online/SLIV/rolex.php?id=2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1768285801~acl=/*~id=2ff3e0b557a2b142b6ac059fca06dbb8-1768242600203~hmac=6048d5d533d774ae93119f2c9fa3c13c1940a22b4dcc8bb7c3ff3f9ea2634c12|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
+
 
 
 #EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/29309.v8.png",Radio Foorti!
