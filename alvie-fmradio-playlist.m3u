@@ -156,6 +156,7 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/y8p87vsX/srktv.webp" group-title="Bangladesh*",Srk TV HD
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-40 tvg-logo="https://i.postimg.cc/4dM7krLF/Logo-tsports.jpg" group-title="Bangladesh*",T Sports
 
