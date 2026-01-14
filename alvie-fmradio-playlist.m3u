@@ -87,6 +87,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8
 
 #EXTINF:-27 tvg-logo="https://i.postimg.cc/1R8ffhmP/deepto.png" group-title="Bangladesh*",Deepto TV SD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
 
 #EXTINF:-27 tvg-logo="https://i.postimg.cc/1R8ffhmP/deepto.png" group-title="Bangladesh*",Deepto TV HD¹
@@ -214,6 +215,7 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0mpQrB0/dptv.png" group-title="Bangladesh*",Discover Pakistan HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/tracks-v1a1/mono.m3u8
 https://ml-pull-dvc-myco.io:2096/DISCOVER_PAKISTAN/index.m3u8
+
 
 
 #EXTINF:-53 tvg-logo="https://i.postimg.cc/t4Wth1hX/z24g.png" group-title="India • Bangla*",Zee 24 Ghanta
@@ -376,7 +378,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-84 tvg-logo="https://i.postimg.cc/sDLYhYqm/zoom.jpg" group-title="India • Hindi*",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RDYr93y/ss.png" group-title="India • Hindi*",South Station
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RDYr93y/ss.png" group-title="India • Hindi*",South Station HD
 https://jmp2.uk/stvp-IN3800008CX
 
 #EXTINF:-28 tvg-logo="" group-title="India • Hindi*",The Movie Club HD
@@ -399,7 +401,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJq9wk0H/alj.png" group-title="International*",Al Jazeera
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJq9wk0H/alj.png" group-title="International*",Al Jazeera HD¹
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
 #EXTINF:-2 tvg-logo="https://i.postimg.cc/3NYT90qV/bbc.png" group-title="International*",BBC News
@@ -411,22 +413,22 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-3 tvg-logo="https://i.postimg.cc/qv7wC5SF/Wion.png" group-title="International*",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 
-#EXTINF:-4 tvg-logo="https://i.postimg.cc/JzgNH4b3/CNN.png" group-title="International*",CNN
+#EXTINF:-4 tvg-logo="https://i.postimg.cc/JzgNH4b3/CNN.png" group-title="International*",CNN HD
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
 #EXTINF:-5 tvg-logo="https://i.postimg.cc/kG694s94/de.png" group-title="International*",Discovery English
 http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
 
-#EXTINF:-6 tvg-logo="https://i.postimg.cc/s2jrSsy0/ngw.png" group-title="International*",Nat Geo Wild
+#EXTINF:-6 tvg-logo="https://i.postimg.cc/s2jrSsy0/ngw.png" group-title="International*",Nat Geo Wild HD
 https://d1tm3cz23db55z.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildTV/476.m3u8
 
-#EXTINF:-7 tvg-logo="https://i.postimg.cc/MGqWD10N/wn.png" group-title="International*", Wild Nature
+#EXTINF:-7 tvg-logo="https://i.postimg.cc/MGqWD10N/wn.png" group-title="International*", Wild Nature HD
 https://dg5rg8emlfy55.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildNature2/491.m3u8
 
-#EXTINF:-8 tvg-logo="https://i.postimg.cc/bJ0f0bXn/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp" group-title="International*",BBC Earth
+#EXTINF:-8 tvg-logo="https://i.postimg.cc/bJ0f0bXn/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp" group-title="International*",BBC Earth HD
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 
-#EXTINF:-9 tvg-logo="https://i.postimg.cc/bJ0f0bXn/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp" group-title="International*",BBC Earth
+#EXTINF:-9 tvg-logo="https://i.postimg.cc/bJ0f0bXn/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp" group-title="International*",BBC Earth HD
 http://65.108.239.207/bbc/index.m3u8
 
 #EXTINF:-10 tvg-logo="https://i.postimg.cc/sgZXsPDh/ap.png" group-title="International*", Animal Planet
@@ -435,13 +437,13 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/76RFhS0J/mtvlive.png" group-title="International*",MTV Live
 http://143.244.60.97/MTV_LIVE/index.m3u8
 
-#EXTINF:-28 tvg-logo="https://i.postimg.cc/VNfQVfzR/mtvcus.png" group-title="International*",MTV Classic
+#EXTINF:-28 tvg-logo="https://i.postimg.cc/VNfQVfzR/mtvcus.png" group-title="International*",MTV Classic SD
 http://143.244.60.97/MTV_CLASSIC/index.m3u8
 
 #EXTINF:-28 tvg-logo="" group-title="International*",MixTV
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 
-#EXTINF:-28 tvg-logo="https://i.postimg.cc/pLRFtgQG/vevo.png" group-title="International*",Vevo TV
+#EXTINF:-28 tvg-logo="https://i.postimg.cc/pLRFtgQG/vevo.png" group-title="International*",Vevo HD
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
 
 
