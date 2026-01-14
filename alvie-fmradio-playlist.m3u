@@ -111,6 +111,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 
 #EXTINF:-32 tvg-logo="https://i.postimg.cc/02SDc8kL/gtv.png" group-title="Bangladesh*",Global TV
+https://tvsen6.aynascope.net/globaltvhd/index.m3u8?e=1768349513&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ad787440d2011754c1cf15a42fb3f2a1
 
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/mDcGCpYw/nexus.png" group-title="Bangladesh*",Nexus TV
 
@@ -150,6 +151,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ruposhibangla.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFxN39mq/nantv.png" group-title="Bangladesh*",Nan TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZgXvdVJ/ktv.webp" group-title="Bangladesh*",Khushboo Bangla SD
 https://cdn-4.pishow.tv/live/1473/master.m3u8
@@ -376,6 +378,15 @@ https://pb-dkdpz5so0aqqr.akamaized.net:443/v1/master/3722c60a815c199d9c0ef36c5b7
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bYxYbp56/Pitaara.png" group-title="India • Hindi*", Pitaara TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/poster_20240322_175609.jpg" group-title="India • Hindi*",YRF Music HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23146/saga-music/poster_20240322_183946.jpg" group-title="India • Hindi*",Saga Music HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23011/abp-news/poster_20231027_171117.jpg" group-title="India • Hindi*",ABP News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-news/master.m3u8
 
 
 
