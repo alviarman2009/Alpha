@@ -64,8 +64,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rs3vgk1/btv.png" group-title="Bangladesh*",BTV HD
 
 #EXTINF:-19 tvg-logo="https://i.postimg.cc/3rs3vgk1/btv.png" group-title="Bangladesh*",BTV
-#https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-https://www.btvlive.gov.bd/live/undefined/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#https://www.btvlive.gov.bd/live/undefined/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
 
 #EXTINF:-20 tvg-logo="https://i.postimg.cc/WzKSfNJM/btvnews.png" group-title="Bangladesh*",BTV News
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
@@ -82,14 +82,14 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-24 tvg-logo="https://i.postimg.cc/yxvdrZZq/jn24.png" group-title="Bangladesh*",Jago News24 HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-25 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Eten_tv.png" group-title="Bangladesh*",Eten Prime HD
+#EXTINF:-25 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Eten_tv2.jpg" group-title="Bangladesh*",Eten Prime HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/tenprime.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-26 tvg-logo="https://i.postimg.cc/4NCTdVyf/deshtv.png" group-title="Bangladesh*",Desh TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8
 
 #EXTINF:-27 tvg-logo="https://i.postimg.cc/1R8ffhmP/deepto.png" group-title="Bangladesh*",Deepto TV SD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
 
 #EXTINF:-27 tvg-logo="https://i.postimg.cc/1R8ffhmP/deepto.png" group-title="Bangladesh*",Deepto TV HD¹
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
