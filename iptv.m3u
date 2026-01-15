@@ -215,7 +215,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/aurLife_tv.png" group-title="Bangladesh*",aurLife TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/aurLife_tv.png" group-title="Bangladesh*",aurLife PK
 http://124.109.47.101/hls/stream1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Hum_tv.png" group-title="Bangladesh*",Hum TV
@@ -236,9 +236,6 @@ https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0mpQrB0/dptv.png" group-title="Bangladesh*",Discover Pakistan HD
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/tracks-v1a1/mono.m3u8
 https://ml-pull-dvc-myco.io:2096/DISCOVER_PAKISTAN/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh*",ARY
-https://arydigital.aryzap.com/b1887951348521153bef3fc587e012bd/696a870a/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/main.m3u8?uuid=5798f40c-cf2d-4802-8357-168bdbc258a7
 
 
 
