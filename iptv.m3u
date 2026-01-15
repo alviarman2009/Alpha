@@ -230,9 +230,15 @@ https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Aik_News.png" group-title="Bangladesh*",Aik News
 https://video.primexsports.com/pnn/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Dunya_News2.png" group-title="Bangladesh*",Dunya News
+https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0mpQrB0/dptv.png" group-title="Bangladesh*",Discover Pakistan HD
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/tracks-v1a1/mono.m3u8
 https://ml-pull-dvc-myco.io:2096/DISCOVER_PAKISTAN/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh*",ARY
+https://arydigital.aryzap.com/b1887951348521153bef3fc587e012bd/696a870a/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/main.m3u8?uuid=5798f40c-cf2d-4802-8357-168bdbc258a7
 
 
 
