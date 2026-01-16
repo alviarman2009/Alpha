@@ -9,28 +9,28 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 tvg-id="cna.sg" tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg" group-title="Bangla Channel",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-id="RepublicBharat.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Republic_Bharat_Rashtra_ke_Naam.jpg" group-title="Bangla Channel",NEWS | Republic Bharat
+#EXTINF:-1 tvg-id="RepublicBharat.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Republic_Bharat.png" group-title="India • Hindi*",Republic Bharat
 https://d2lk5u59tns74c.cloudfront.net/out/v1/7e8b490d6b9c4013a3e3e874aa352212/index.m3u8
 
-#EXTINF:-1 tvg-id="RepublicTV.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Republic-logo2.svg" group-title="Bangla Channel",NEWS | Republic TV
+#EXTINF:-1 tvg-id="RepublicTV.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Republic_TV.png" group-title="India • Hindi*",Republic TV
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
 
 #EXTINF:-1 tvg-id="TimesNowNavbharat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300003OW_20240131T032351SQUARE.png_20240131032352.png" group-title="Bangla Channel",NEWS | Times Now Navbharat
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8
 
-#EXTINF:-1 tvg-id="ZeeHindustan.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Z_Bharat_English.jpg" group-title="Bangla Channel",NEWS | Zee Hindustan
+#EXTINF:-1 tvg-id="ZeeHindustan.in@SD" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Zee_Bharat.png" group-title="Bangla Channel",Zee Bharat
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
 
-#EXTINF:-1 tvg-id="ZEENews" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Zee_News_HD.jpg" group-title="Bangla Channel",NEWS | ZEE News
+#EXTINF:-1 tvg-id="ZEENews" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Zee_News.png" group-title="Bangla Channel",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 
-#EXTINF:-1 tvg-id="TV9Bharatvarsh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/TV9_Bharatvarsh.jpeg" group-title="Bangla Channel",NEWS | TV9 Bharatvarsh
+#EXTINF:-1 tvg-id="TV9Bharatvarsh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/TV9_Bharatvarsh.jpeg" group-title="Bangla Channel",TV9 Bharatvarsh
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="News9Live.in" tvg-logo="https://a.jsrdn.com/hls/23129/news9live/logo_20250813_011629_68.jpg" group-title="Bangla Channel",NEWS | News9Live
+#EXTINF:-1 tvg-id="News9Live.in" tvg-logo="https://a.jsrdn.com/hls/23129/news9live/logo_20250813_011629_68.jpg" group-title="Bangla Channel",News9
 https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8
 
 #EXTINF:-1 tvg-id="NewsNation.in@SD" tvg-logo="https://yt3.googleusercontent.com/tWgKmMIT4YwdmT0z5S1MN2bIvoFN8_RvIsAWZbLwQVIpq21RO-_Y4sDzVdpj9l6wWRRz8YeUSg=s72-c-k-c0x00ffffff-no-rj" group-title="Bangla Channel",NEWS | News Nation
@@ -38,11 +38,14 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/in
 
 
 
-#EXTINF:-1 tvg-id="ndtvenglish" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lcj8idHNsaTiTITY2vWQD6gaxZ6ITkpQPaLVskaDMyiml9=s160-c-k-c0x00ffffff-no-rj" group-title="Bangla Channel",NEWS | NDTV English
+#EXTINF:-1 tvg-id="ndtvenglish" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/NDTV_24x7.png" group-title="Bangla Channel",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 
-#EXTINF:-1 tvg-id="ndtvindia" tvg-logo="https://logodix.com/logo/2131933.jpg" group-title="Bangla Channel",NEWS | NDTV Hindi
+#EXTINF:-1 tvg-id="ndtvindia" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/NDTV_India.png" group-title="India • Hindi*",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="CNNNews18" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/CNN-News_18_logo.jpg" group-title="Bangla Channel",NEWS | CNN News18
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
