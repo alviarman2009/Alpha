@@ -219,7 +219,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Cartoon_Network_2010.png" group-title="Bangladesh*",Cartoon Network Urdu
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/CN2010.png" group-title="Bangladesh*",Cartoon Network Urdu
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 #EXTINF:-1 tvg-id="8XM" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/8XM2011.webp" group-title="Bangladesh*",8XM
@@ -260,13 +260,13 @@ https://ml-pull-dvc-myco.io:2096/DISCOVER_PAKISTAN/index.m3u8
 #EXTINF:-53 tvg-logo="https://i.postimg.cc/t4Wth1hX/z24g.png" group-title="India • Bangla*",Zee 24 Ghanta
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
 
-#EXTINF:-55 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ABP_Ananda.png" group-title="India • Bangla*",ABP Ananda`
+#EXTINF:-55 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ABPAnanda.png" group-title="India • Bangla*",ABP Ananda`
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Rh0xt5yv/n18b.png" group-title="India • Bangla*",News18 Bangla HD
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TV9_Bangla.png" group-title="India • Bangla*",TV9 Bangla`
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TV9Bangla.png" group-title="India • Bangla*",TV9 Bangla`
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bangla/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76vFKJcv/rbangla.png" group-title="India • Bangla*",Republic Bangla SD
@@ -276,10 +276,10 @@ https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1
 #https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
-#EXTINF:-1 tvg-id="CalcuttaNews" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Calcutta_News.png" group-title="India • Bangla*",Calcutta News HD
+#EXTINF:-1 tvg-id="CalcuttaNews" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/CalcuttaNews.png" group-title="India • Bangla*",Calcutta News HD
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 
-#EXTINF:-1 tvg-id="KolkataTv.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Kolkata_TV.png" group-title="India • Bangla*",Kolkata TV`
+#EXTINF:-1 tvg-id="KolkataTv.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/KolkataTV.png" group-title="India • Bangla*",Kolkata TV`
 #https://mumt01.tangotv.in/KOLKATATV/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8
 
@@ -311,7 +311,7 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sx6F36nx/e10b.png" group-title="India • Bangla*",Enterr10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Channel_Vision.png" group-title="India • Bangla*",Channel Vision SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ChannelVision.png" group-title="India • Bangla*",Channel Vision SD
 https://channelvision.livebox.co.in/channelvisionhls/live.m3u8
 
 #EXTINF:-1 tvg-id="BanglaJagoTV" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/BanglaJagoTV.png" group-title="India • Bangla*",Bangla Jago TV
@@ -373,22 +373,22 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-87 tvg-logo="https://i.postimg.cc/8Pv5ZLsw/batv.png" group-title="India • Hindi*",BritAsiaTV`
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Saga_Music.png" group-title="India • Hindi*",Saga Music HD`
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SagaMusic.png" group-title="India • Hindi*",Saga Music HD`
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/master.m3u8
 
-#EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Saga_Music_Haryanvi.png" group-title="India • Hindi*",Saga Music Haryanvi`
+#EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SagaMusicHaryanvi.png" group-title="India • Hindi*",Saga Music Haryanvi`
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music-haryanvi/master.m3u8
 
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/QNf8zMJK/bm.png" group-title="India • Hindi*",Bollywood Masala`
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8
 
-#EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Shemaroo_Bollywood.png" group-title="India • Hindi*",Shemaroo Bollywood`
+#EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ShemarooBollywood.png" group-title="India • Hindi*",Shemaroo Bollywood`
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/playlist.m3u8
 
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/BvSDCkng/blyflx.png" group-title="India • Hindi*",NH BollyFlix HD
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 
-#EXTINF:-1 tvg-id="ZEEBOLLYWOOD" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/af040f9b205e6ef4e1c22eaa0f7d04654c9e8b3d/Zee_Bollywood_2025.svg" group-title="India • Hindi*",Zee Bollywood SD
+#EXTINF:-1 tvg-id="ZEEBOLLYWOOD" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeBollywood.png" group-title="India • Hindi*",Zee Bollywood SD
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8P4wrBCL/dangal.png" group-title="India • Hindi*",Dangal
@@ -418,13 +418,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yB9xQ6s/b4um.png" group-title="India • Hindi*",B4U Movies SD
 https://cdnb4u.wiseplayout.com/B4U_Movies/SD216/SD216.m3u8
 
-#EXTINF:-1 tvg-id="b4u-bhojpuri" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/B4U_Bhojpuri.png" group-title="India • Hindi*",B4U Bhojpuri HD
+#EXTINF:-1 tvg-id="b4u-bhojpuri" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/B4UBhojpuri.png" group-title="India • Hindi*",B4U Bhojpuri HD
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 
-#EXTINF:-1 tvg-id="BhojpuriCinema.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Bhojpuri_Cinema.webp" group-title="India • Hindi*",Bhojpuri Cinema
+#EXTINF:-1 tvg-id="BhojpuriCinema.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/BhojpuriCinema.webp" group-title="India • Hindi*",Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AbzyDhakad.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Abzy_Dhakad.webp" group-title="India • Hindi*",Abzy Dhakad SD
+#EXTINF:-1 tvg-id="AbzyDhakad.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AbzyDhakad.webp" group-title="India • Hindi*",Abzy Dhakad SD
 https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
 
 #EXTINF:-1 tvg-id="Wild Flix" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/WildFlix.png" group-title="India • Hindi*",Wild Flix Hindi HD
@@ -445,13 +445,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-84 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Zoom.png" group-title="India • Hindi*",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/South_Station.png" group-title="India • Hindi*",South Station HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SouthStation.png" group-title="India • Hindi*",South Station HD
 https://jmp2.uk/stvp-IN3800008CX
 
-#EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/The_Movie_Club.jpeg" group-title="India • Hindi*",The Movie Club HD
+#EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TMC.jpeg" group-title="India • Hindi*",The Movie Club HD
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 
-#EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/The_Movie_Club.jpeg" group-title="India • Hindi*",The Movie Club SD
+#EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TMC2.jpeg" group-title="India • Hindi*",The Movie Club SD
 https://pb-dkdpz5so0aqqr.akamaized.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dkdpz5so0aqqr/../../../manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dkdpz5so0aqqr/6ddcb954-4369-4fa6-909d-f35b5e84ad60/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bYxYbp56/Pitaara.png" group-title="India • Hindi*", Pitaara TV`
@@ -460,74 +460,74 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/poster_20240322_175609.jpg" group-title="India • Hindi*",YRF Music HD`
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
 
-#EXTINF:-1 tvg-id="YRFMusicHD" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/YRF_Music.png" group-title="India • Hindi*",YRF Music 2 HD
+#EXTINF:-1 tvg-id="YRFMusicHD" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/YRFMusic.png" group-title="India • Hindi*",YRF Music 2 HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DDNational.in@HD" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DD_National.png" group-title="India • Hindi*",DD National HD
+#EXTINF:-1 tvg-id="DDNational.in@HD" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DDNational.png" group-title="India • Hindi*",DD National HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 
-#EXTINF:-1 tvg-id="dd-india" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DD_India.png" group-title="India • Hindi*",DD India HD
+#EXTINF:-1 tvg-id="dd-india" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DDIndia.png" group-title="India • Hindi*",DD India HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
 
-#EXTINF:-1 tvg-id="DDNews.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DD_News.png" group-title="India • Hindi*",DD News HD
+#EXTINF:-1 tvg-id="DDNews.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DDNews.png" group-title="India • Hindi*",DD News HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
 
-#EXTINF:-1 tvg-id="dd-urdu" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DD_Urdu.png" group-title="India • Hindi*",DD Urdu
+#EXTINF:-1 tvg-id="dd-urdu" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DDUrdu.png" group-title="India • Hindi*",DD Urdu
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8
 
-#EXTINF:-1 tvg-id="DDBharati.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DD_Bharati.png" group-title="India • Hindi*",DD Bharati
+#EXTINF:-1 tvg-id="DDBharati.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DDBharati.png" group-title="India • Hindi*",DD Bharati
 https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
 
-#EXTINF:-1 tvg-id="TimesNowNavbharat" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Times_Now_Navbharat.png" group-title="India • Hindi*",Times Now Navbharat`
+#EXTINF:-1 tvg-id="TimesNowNavbharat" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TimesNowNavbharat.png" group-title="India • Hindi*",Times Now Navbharat`
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Republic_TV.png" group-title="India • Hindi*",Republic TV`
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/RepublicTV.png" group-title="India • Hindi*",Republic TV`
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Republic_Bharat.png" group-title="India • Hindi*",Republic Bharat`
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/RepublicBharat.png" group-title="India • Hindi*",Republic Bharat`
 https://d2lk5u59tns74c.cloudfront.net/out/v1/7e8b490d6b9c4013a3e3e874aa352212/index.m3u8
 
-#EXTINF:-1 tvg-id="ndtvenglish" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/NDTV_24x7.png" group-title="India • Hindi*",NDTV 24x7
+#EXTINF:-1 tvg-id="ndtvenglish" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/NDTV24x7.png" group-title="India • Hindi*",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 
-#EXTINF:-1 tvg-id="ndtvindia" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/NDTV_India.png" group-title="India • Hindi*",NDTV India
+#EXTINF:-1 tvg-id="ndtvindia" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/NDTVIndia.png" group-title="India • Hindi*",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ABP_News.png" group-title="India • Hindi*",ABP News`
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ABPNews.png" group-title="India • Hindi*",ABP News`
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-news/master.m3u8
 
-#EXTINF:-1 tvg-id="ABPGanga" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ABP_Ganga.png" group-title="India • Hindi*",ABP Ganga`
+#EXTINF:-1 tvg-id="ABPGanga" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ABPGanga.png" group-title="India • Hindi*",ABP Ganga`
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ganga/master.m3u8
 
-#EXTINF:-1 tvg-id="DistroTVUS_73916" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ABP_Asmita.png" group-title="India • Hindi*",ABP Asmita`
+#EXTINF:-1 tvg-id="DistroTVUS_73916" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ABPAsmita.png" group-title="India • Hindi*",ABP Asmita`
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-asmita/master.m3u8
 
-#EXTINF:-1 tvg-id="DistroTVUS_73917" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ABP_Majha.png" group-title="India • Hindi*",ABP Majha`
+#EXTINF:-1 tvg-id="DistroTVUS_73917" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ABPMajha.png" group-title="India • Hindi*",ABP Majha`
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-majha/master.m3u8
 
-#EXTINF:-1 tvg-id="DistroTVUS_73920" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ABP_Sanjha.png" group-title="India • Hindi*",ABP Sanjha`
+#EXTINF:-1 tvg-id="DistroTVUS_73920" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ABPSanjha.png" group-title="India • Hindi*",ABP Sanjha`
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-sanjha/master.m3u8
 
-#EXTINF:-1 tvg-id="ZEENews" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Zee_News.png" group-title="India • Hindi*",Zee News`
+#EXTINF:-1 tvg-id="ZEENews" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeNews.png" group-title="India • Hindi*",Zee News`
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 
-#EXTINF:-1 tvg-id="ZeeHindustan.in@SD" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Zee_Bharat.png" group-title="India • Hindi*",Zee Bharat
+#EXTINF:-1 tvg-id="ZeeHindustan.in@SD" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeBharat.png" group-title="India • Hindi*",Zee Bharat
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
 
-#EXTINF:-1 tvg-id="TV9Bharatvarsh" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TV9_Bharatvarsh.png" group-title="India • Hindi*",TV9 Bharatvarsh`
+#EXTINF:-1 tvg-id="TV9Bharatvarsh" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TV9Bharatvarsh.png" group-title="India • Hindi*",TV9 Bharatvarsh`
 #https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bharatvarsh/main.m3u8
 
-#EXTINF:-1 tvg-id="DistroTVUS_109614" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TV9_Gujarati.png" group-title="India • Hindi*",TV9 Gujarati`
+#EXTINF:-1 tvg-id="DistroTVUS_109614" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TV9Gujarati.png" group-title="India • Hindi*",TV9 Gujarati`
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-gujarati/main.m3u8
 
-#EXTINF:-1 tvg-id="DistroTVUS_109615" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TV9_Kannada.png" group-title="India • Hindi*",TV9 Kannada`
+#EXTINF:-1 tvg-id="DistroTVUS_109615" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TV9Kannada.png" group-title="India • Hindi*",TV9 Kannada`
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-kannada/main.m3u8
 
-#EXTINF:-1 tvg-id="DistroTVUS_109616" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TV9_Marathi.png" group-title="India • Hindi*",TV9 Marathi`
+#EXTINF:-1 tvg-id="DistroTVUS_109616" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TV9Marathi.png" group-title="India • Hindi*",TV9 Marathi`
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-marathi/main.m3u8
 
-#EXTINF:-1 tvg-id="DistroTVUS_109617" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TV9_Telugu.png" group-title="India • Hindi*",TV9 Telugu`
+#EXTINF:-1 tvg-id="DistroTVUS_109617" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TV9Telugu.png" group-title="India • Hindi*",TV9 Telugu`
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-telugu/main.m3u8
 
 #EXTINF:-1 tvg-id="News9Live.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/News9.png" group-title="India • Hindi*",News 9 Live
@@ -536,16 +536,16 @@ https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5ZWh8zf/nn.jpg" group-title="India • Hindi*",News Nation`
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 
-#EXTINF:-1 tvg-id="CNNNews18" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/CNN_News18.png" group-title="India • Hindi*",CNN News18 HD
+#EXTINF:-1 tvg-id="CNNNews18" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/CNNNews18.png" group-title="India • Hindi*",CNN News18 HD
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTn79nXc/it.png" group-title="India • Hindi*",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 
-#EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Aaj_Tak.png" group-title="India • Hindi*",Aaj Tak
+#EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AajTakHD.png" group-title="India • Hindi*",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="AajkiKhabar" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Aaj_Ki_Khabar.png" group-title="India • Hindi*",Aaj Ki Khabar HD
+#EXTINF:-1 tvg-id="AajkiKhabar" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AajKiKhabar.png" group-title="India • Hindi*",Aaj Ki Khabar HD
 https://server.livelegitpro.in/aajkikhabar/aajkikhabar/tracks-v1a1/mono.m3u8
 
 
@@ -565,7 +565,7 @@ https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 #EXTINF:-4 tvg-logo="https://i.postimg.cc/JzgNH4b3/CNN.png" group-title="International*",CNN HD
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cna.sg" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/af040f9b205e6ef4e1c22eaa0f7d04654c9e8b3d/CNA.svg" group-title="International*",Channel News Asia HD
+#EXTINF:-1 tvg-id="cna.sg" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/CNA.png" group-title="International*",Channel News Asia HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-5 tvg-logo="https://i.postimg.cc/kG694s94/de.png" group-title="International*",Discovery English
@@ -586,10 +586,10 @@ https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist
 #EXTINF:-9 tvg-logo="https://i.postimg.cc/bJ0f0bXn/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp" group-title="International*",BBC Earth HD
 http://65.108.239.207/bbc/index.m3u8
 
-#EXTINF:-10 tvg-logo="https://i.postimg.cc/sgZXsPDh/ap.png" group-title="International*", Animal Planet
+#EXTINF:-10 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AnimalPlanet2008.png" group-title="International*", Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/37710214f7980ada7eba2bec8d1cca3fe806ce7d/Wild_Earth.svg" group-title="International*",Wild Earth
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/37710214f7980ada7eba2bec8d1cca3fe806ce7d/WildEarth.svg" group-title="International*",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
 
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/76RFhS0J/mtvlive.png" group-title="International*",MTV Live
