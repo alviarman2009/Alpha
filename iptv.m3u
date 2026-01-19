@@ -247,7 +247,7 @@ https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Dunya_News2.png" group-title="Bangladesh*",Dunya News UK
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Dunya_News.webp" group-title="Bangladesh*",City 41
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/City41.jpeg" group-title="Bangladesh*",City 41 F.
 http://163.61.227.29:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0mpQrB0/dptv.png" group-title="Bangladesh*",Discover Pakistan HD
