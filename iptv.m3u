@@ -269,7 +269,7 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TV9Bangla.png" group-title="India • Bangla*",TV9 Bangla`
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bangla/main.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/RepublicBangla.png" group-title="India • Bangla*",Republic Bangla SD
+#EXTINF:-1 tvg-id="RepublicBangla.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/RepublicBangla.png" group-title="India • Bangla*",Republic Bangla SD
 https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/06e5afc2-a022-4e51-9131-4e33a6207c5c/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Rplus2.png" group-title="India • Bangla*",Rplus News
