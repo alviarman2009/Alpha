@@ -283,7 +283,7 @@ https://akdnetwork.co.in/live/cnnew/index.m3u8
 #https://mumt01.tangotv.in/KOLKATATV/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SangeetBangla.png" group-title="India • Bangla*",Sangeet Bangla SD
+#EXTINF:-1 tvg-id="sangeetbangla.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SangeetBangla.png" group-title="India • Bangla*",Sangeet Bangla SD
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
 #EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/RuposhiBangla.png" group-title="India • Bangla*",Ruposhi Bangla SD
@@ -391,7 +391,7 @@ https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeBollywood2.png" group-title="India • Hindi*",Zee Bollywood SD
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8P4wrBCL/dangal.png" group-title="India • Hindi*",Dangal
+#EXTINF:-1 tvg-id="DangalTV.in" tvg-logo="https://i.postimg.cc/8P4wrBCL/dangal.png" group-title="India • Hindi*",Dangal
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDT92jnS/dangal2.jpg" group-title="India • Hindi*",Dangal-2
@@ -550,19 +550,19 @@ https://server.livelegitpro.in/aajkikhabar/aajkikhabar/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AlJazeera.png" group-title="International*",Al Jazeera HD¹
+#EXTINF:-1 tvg-id="aljazeera.com" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AlJazeera.png" group-title="International*",Al Jazeera HD¹
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
 #EXTINF:-2 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/BBC.png" group-title="International*",BBC News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnRTQpzq/dw.png" group-title="International*",DW News HD
+#EXTINF:-1 tvg-id="dwnews" tvg-logo="https://i.postimg.cc/ZnRTQpzq/dw.png" group-title="International*",DW News HD
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
-#EXTINF:-3 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/WION.png" group-title="International*",WION
+#EXTINF:-3 tvg-id="WION.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/WION.png" group-title="International*",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 
-#EXTINF:-4 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/CNN.png" group-title="International*",CNN HD
+#EXTINF:-4 tvg-id="CNN.us" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/CNN.png" group-title="International*",CNN HD
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cna.sg" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/CNA.png" group-title="International*",Channel News Asia HD
