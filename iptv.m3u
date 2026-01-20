@@ -243,7 +243,10 @@ https://video.primexsports.com/pnn/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/City41.jpeg" group-title="Bangladesh*",City 41
 http://163.61.227.29:8000/play/a02r/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DunyaNews.webp" group-title="Bangladesh*",Dunya News
+#EXTINF:-1 tvg-id="LahoreNews.pk@SD" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/LahoreNews5.png,Lahore News
+https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DunyaNews5.png" group-title="Bangladesh*",Dunya News
 #https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8
 
