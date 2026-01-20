@@ -445,6 +445,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-84 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Zoom.png" group-title="India • Hindi*",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
+#EXTINF:-1 tvg-id="GoldminesMovies.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Goldmines.png" group-title="India • Hindi*",Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SouthStation.png" group-title="India • Hindi*",South Station HD
 https://jmp2.uk/stvp-IN3800008CX
 
@@ -462,6 +465,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="YRFMusicHD" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/YRFMusic.png" group-title="India • Hindi*",YRF Music 2 HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="starsports1hindi.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/StarSports1HD.png" group-title="India • Hindi*",Star Sports 1 Hindi
+https://starsportshindiii.pages.dev/index.m3u8
 
 #EXTINF:-1 tvg-id="DDNational.in@HD" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DDNational.png" group-title="India • Hindi*",DD National HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
@@ -570,6 +576,9 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
 #EXTINF:-3 tvg-id="WION.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/WION.png" group-title="International*",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="" group-title="International*",CGTN
+https://0472.org/hls/cgtn.m3u8
 
 #EXTINF:-4 tvg-id="CNN.us" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/CNN.png" group-title="International*",CNN HD
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
