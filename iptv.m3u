@@ -481,10 +481,10 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/in
 #EXTINF:-1 tvg-id="TimesNowNavbharat" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TimesNowNavbharat.png" group-title="India • Hindi*",Times Now Navbharat`
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/RepublicTV.png" group-title="India • Hindi*",Republic TV`
+#EXTINF:-1 tvg-id="RepublicTV.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/RepublicTV.png" group-title="India • Hindi*",Republic TV`
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/RepublicBharat.png" group-title="India • Hindi*",Republic Bharat`
+#EXTINF:-1 tvg-id="RepublicBharat.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/RepublicBharat.png" group-title="India • Hindi*",Republic Bharat`
 https://d2lk5u59tns74c.cloudfront.net/out/v1/7e8b490d6b9c4013a3e3e874aa352212/index.m3u8
 
 #EXTINF:-1 tvg-id="ndtvenglish" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/NDTV24x7.png" group-title="India • Hindi*",NDTV 24x7
@@ -533,14 +533,23 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="News9Live.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/News9.png" group-title="India • Hindi*",News 9 Live
 https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/NewsNation.png" group-title="India • Hindi*",News Nation`
+#EXTINF:-1 tvg-id="News24" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900001YE_20250430T011913SQUARE.png" group-title="India • Hindi*",News 24
+https://amg13643-amg13643c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c1-amgplt0016/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NewsIndia24X7.in" tvg-logo="https://a.jsrdn.com/hls/23215/news-india-24x7/logo_20250611_205743_70.png" group-title="India • Hindi*",News India 24x7
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-india-24x7/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsNation.in@SD" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/NewsNation.png" group-title="India • Hindi*",News Nation`
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 
 #EXTINF:-1 tvg-id="CNNNews18" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/CNNNews18.png" group-title="India • Hindi*",CNN News18 HD
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTn79nXc/it.png" group-title="India • Hindi*",India Today
+#EXTINF:-1 tvg-id="indiatoday.in" tvg-logo="https://i.postimg.cc/xTn79nXc/it.png" group-title="India • Hindi*",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
+
+#EXTINF:-1 tvg-id="IndiaTV.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/India_TV_Orange.jpg" group-title="India • Hindi*",India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
 
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AajTak2.png" group-title="India • Hindi*",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
