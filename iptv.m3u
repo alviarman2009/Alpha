@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/alviarman2009/Alpha/refs/heads/main/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGby1RJJ/itv.png" group-title="Bangladesh*",Independent Television¹
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
