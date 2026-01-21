@@ -15,6 +15,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-5 tvg-logo="https://i.postimg.cc/tgrsQ2Xb/jamuna.png" group-title="Bangladesh*",Jamuna TV HD¹
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
+#EXTINF:-5 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/StarNews.png" group-title="Bangladesh*",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
 #EXTINF:-6 tvg-logo="https://i.postimg.cc/DfCrgwr4/dbc.png" group-title="Bangladesh*",DBC News HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
 
