@@ -1,18 +1,18 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/epg.xml"
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1INDEPENDENTTV.png" group-title="Bangladesh*",Independent Television¹
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1INDEPENDENTTV.png" group-title="Bangladesh*",Independent Television
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
-#EXTINF:-2 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1CHANNEL24.png" group-title="Bangladesh*",Channel 24 HD¹
+#EXTINF:-2 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1CHANNEL24.png" group-title="Bangladesh*",Channel 24 ᴴᴰ
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
-#EXTINF:-3 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1SOMOYTV.png" group-title="Bangladesh*",Somoy TV HD¹
+#EXTINF:-3 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1SOMOYTV.png" group-title="Bangladesh*",Somoy TV ᴴᴰ
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
-#EXTINF:-4 tvg-logo="https://i.postimg.cc/13YpYr7R/ekattortv.png" group-title="Bangladesh*",Ekattor TV HD¹
+#EXTINF:-4 tvg-logo="https://i.postimg.cc/13YpYr7R/ekattortv.png" group-title="Bangladesh*",Ekattor TV ᴴᴰ
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
-#EXTINF:-5 tvg-logo="https://i.postimg.cc/tgrsQ2Xb/jamuna.png" group-title="Bangladesh*",Jamuna TV HD¹
+#EXTINF:-5 tvg-logo="https://i.postimg.cc/tgrsQ2Xb/jamuna.png" group-title="Bangladesh*",Jamuna TV ᴴᴰ
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:-5 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/StarNews.png" group-title="Bangladesh*",Star News
