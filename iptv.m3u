@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/epg.xml"
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1IndependentTV.png" group-title="Bangladesh*",Independent Television¹
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1INDEPENDENTTV.png" group-title="Bangladesh*",Independent Television¹
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
-#EXTINF:-2 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1Channel24.png" group-title="Bangladesh*",Channel 24 HD¹
+#EXTINF:-2 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1CHANNEL24.png" group-title="Bangladesh*",Channel 24 HD¹
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
-#EXTINF:-3 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1SomoyTV.png" group-title="Bangladesh*",Somoy TV HD¹
+#EXTINF:-3 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1SOMOYTV.png" group-title="Bangladesh*",Somoy TV HD¹
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-4 tvg-logo="https://i.postimg.cc/13YpYr7R/ekattortv.png" group-title="Bangladesh*",Ekattor TV HD¹
@@ -20,10 +20,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-6 tvg-logo="https://i.postimg.cc/DfCrgwr4/dbc.png" group-title="Bangladesh*",DBC News HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
 
-#EXTINF:-7 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1ATNNews.png" group-title="Bangladesh*",ATN News HD¹
+#EXTINF:-7 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1ATNNEWS.png" group-title="Bangladesh*",ATN News HD¹
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
-#EXTINF:-8 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1ATNBangla.png"group-title="Bangladesh*",ATN Bangla HD¹
+#EXTINF:-8 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1ATNBANGLA.png"group-title="Bangladesh*",ATN Bangla HD¹
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.postimg.cc/jjtskTbh/atnuk.png" group-title="Bangladesh*",ATN Bangla UK SD
@@ -33,7 +33,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-9 tvg-logo="https://i.postimg.cc/SRyJFCc9/channeli.png" group-title="Bangladesh*",Channel i HD¹
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
-#EXTINF:-10 tvg-logo="https://i.postimg.cc/4x3dW99r/mtv.jpg" group-title="Bangladesh*",Maasranga Television
+#EXTINF:-10 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1MAASRANGATV.png" group-title="Bangladesh*",Maasranga Television
 #https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://116.204.149.16/maasranga/index.m3u8
 
@@ -48,7 +48,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-15 tvg-logo="https://i.postimg.cc/FzVZxyVc/ayna.jpg" group-title="Bangladesh*",Ayna Television
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ayna.stream/playlist.m3u8
 
-#EXTINF:-16 tvg-logo="https://i.postimg.cc/T3jqnqC8/gtv.png" group-title="Bangladesh*",Gazi Television HD
+#EXTINF:-16 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1GTV.png" group-title="Bangladesh*",Gazi Television HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-13 tvg-logo="https://i.postimg.cc/BnxktVyC/Banglavision.png" group-title="Bangladesh*",BanglaVision HD¹
@@ -90,7 +90,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-25 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/EtenTV.jpg" group-title="Bangladesh*",Eten Prime HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/tenprime.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-26 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1DeshTV.png" group-title="Bangladesh*",Desh TV HD
+#EXTINF:-26 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1DESHTV.png" group-title="Bangladesh*",Desh TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8
 
 #EXTINF:-27 tvg-logo="https://i.postimg.cc/1R8ffhmP/deepto.png" group-title="Bangladesh*",Deepto TV HD¹
@@ -105,7 +105,7 @@ http://116.204.149.16/satv/index.m3u8
 
 #EXTINF:-31 tvg-logo="https://i.postimg.cc/1XjB6MKr/bijoy.png" group-title="Bangladesh*",Bijoy TV
 
-#EXTINF:-32 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1BanglaTV.png" group-title="Bangladesh*",Bangla TV
+#EXTINF:-32 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1BANGLATV.png" group-title="Bangladesh*",Bangla TV
 http://116.204.149.16/banglatv/index.m3u8
 
 #EXTINF:-33 tvg-logo="https://i.postimg.cc/vmfdhY3S/nagorik.png" group-title="Bangladesh*",Nagorik TV
@@ -126,7 +126,7 @@ http://116.204.149.16/globaltv/index.m3u8
 #EXTINF:-35 tvg-logo="https://i.postimg.cc/0yy6tTsD/mohona.png" group-title="Bangladesh*",Mohona TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-34 tvg-logo="https://i.postimg.cc/59KSqSvB/mytv.png" group-title="Bangladesh*",MY TV
+#EXTINF:-34 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1MYTV.png" group-title="Bangladesh*",MY TV
 http://116.204.149.16/mytv/index.m3u8
 
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/ZqYmmmRn/Channel9.png" group-title="Bangladesh*",Channel 9 HD
