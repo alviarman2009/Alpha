@@ -81,10 +81,10 @@ https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/a707f2dc
 #EXTINF:-22 tvg-logo="https://i.postimg.cc/903srYL7/sbt.png" group-title="Bangladesh*",Sangsad Television
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
 
-#EXTINF:-23 tvg-logo="https://i.postimg.cc/hGnLPyWF/news24.png" group-title="Bangladesh*",News24
+#EXTINF:-23 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1NEWS24.png" group-title="Bangladesh*",News24
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-24 tvg-logo="https://i.postimg.cc/yxvdrZZq/jn24.png" group-title="Bangladesh*",Jago News24
+#EXTINF:-24 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/JagoNews24.png" group-title="Bangladesh*",Jago News24
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-25 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/EtenTV.jpg" group-title="Bangladesh*",Ten Prime
@@ -97,13 +97,13 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
-#EXTINF:-29 tvg-logo="https://i.postimg.cc/jqPHVYJS/asian.png" group-title="Bangladesh*",Asian TV
+#EXTINF:-29 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1ASIANTV.png" group-title="Bangladesh*",Asian TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
 
 #EXTINF:-30 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1SATV.png" group-title="Bangladesh*",SATV
 http://116.204.149.16/satv/index.m3u8
 
-#EXTINF:-31 tvg-logo="https://i.postimg.cc/1XjB6MKr/bijoy.png" group-title="Bangladesh*",Bijoy TV
+#EXTINF:-31 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1BIJOYTV.png" group-title="Bangladesh*",Bijoy TV
 
 #EXTINF:-32 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1BANGLATV.png" group-title="Bangladesh*",Bangla TV
 http://116.204.149.16/banglatv/index.m3u8
@@ -117,7 +117,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-35 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1GREENTV.png" group-title="Bangladesh*",Green TV ᴴᴰ
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 
-#EXTINF:-32 tvg-logo="https://i.postimg.cc/02SDc8kL/gtv.png" group-title="Bangladesh*",Global TV
+#EXTINF:-32 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1GLOBALTV.png" group-title="Bangladesh*",Global TV
 #https://tvsen6.aynascope.net/globaltvhd/index.m3u8?e=1768349513&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ad787440d2011754c1cf15a42fb3f2a1
 http://116.204.149.16/globaltv/index.m3u8
 
@@ -584,7 +584,7 @@ https://server.livelegitpro.in/aajkikhabar/aajkikhabar/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="aljazeera.com" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AlJazeeraEN.png" group-title="International*",Al Jazeera HD¹
+#EXTINF:-1 tvg-id="aljazeera.com" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AlJazeera.png" group-title="International*",Al Jazeera
 #https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
@@ -603,31 +603,31 @@ https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/CGTN.png" group-title="International*",CGTN
 https://0472.org/hls/cgtn.m3u8
 
-#EXTINF:-4 tvg-id="CNN.us" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/CNN.png" group-title="International*",CNN HD
+#EXTINF:-4 tvg-id="CNN.us" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/CNN.png" group-title="International*",CNN
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cna.sg" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/CNA.png" group-title="International*",CNA HD
+#EXTINF:-1 tvg-id="cna.sg" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/CNA.png" group-title="International*",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-id="TRTWorld.tr" group-title="International*" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TRTWorld.png",TRT World HD
+#EXTINF:-1 tvg-id="TRTWorld.tr" group-title="International*" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TRTWorld.png",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-5 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DiscoveryChannel2013.webp" group-title="International*",Discovery English
 http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
 
-#EXTINF:-6 tvg-logo="https://i.postimg.cc/s2jrSsy0/ngw.png" group-title="International*",Nat Geo Wild HD
+#EXTINF:-6 tvg-logo="https://i.postimg.cc/s2jrSsy0/ngw.png" group-title="International*",Nat Geo Wild
 https://d1tm3cz23db55z.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildTV/476.m3u8
 
-#EXTINF:-7 tvg-logo="https://i.postimg.cc/MGqWD10N/wn.png" group-title="International*",Wild Nature HD
+#EXTINF:-7 tvg-logo="https://i.postimg.cc/MGqWD10N/wn.png" group-title="International*",Wild Nature
 https://dg5rg8emlfy55.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildNature2/491.m3u8
 
-#EXTINF:-1 tvg-id="GBBB5000002PL" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/WildPlanet.png" group-title="International*",Wild Planet HD
+#EXTINF:-1 tvg-id="GBBB5000002PL" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/WildPlanet.png" group-title="International*",Wild Planet
 https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
 
-#EXTINF:-8 tvg-logo="https://i.postimg.cc/bJ0f0bXn/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp" group-title="International*",BBC Earth HD
+#EXTINF:-8 tvg-logo="https://i.postimg.cc/bJ0f0bXn/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp" group-title="International*",BBC Earth ᴴᴰ
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 
-#EXTINF:-9 tvg-logo="https://i.postimg.cc/bJ0f0bXn/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp" group-title="International*",BBC Earth HD
+#EXTINF:-9 tvg-logo="https://i.postimg.cc/bJ0f0bXn/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp" group-title="International*",BBC Earth ᴴᴰ
 http://65.108.239.207/bbc/index.m3u8
 
 #EXTINF:-10 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AnimalPlanet2008.png" group-title="International*",Animal Planet
@@ -645,13 +645,13 @@ http://143.244.60.97/MTV_CLASSIC/index.m3u8
 #EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/MixHollywoodTV.png" group-title="International*",MIX Hollywood
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 
-#EXTINF:-28 tvg-logo="https://i.postimg.cc/pLRFtgQG/vevo.png" group-title="International*",Vevo HD
+#EXTINF:-28 tvg-logo="https://i.postimg.cc/pLRFtgQG/vevo.png" group-title="International*",Vevo
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
 
-#EXTINF:-1 group-title="International*" tvg-id="ArabicaTV.lb" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ArabicaTV.png" ,Arabica HD
+#EXTINF:-1 group-title="International*" tvg-id="ArabicaTV.lb" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ArabicaTV.png" ,Arabica TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
-#EXTINF:-1 group-title="International*" tvg-id="Kronehit.at" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Kronehit.png" ,Kronehit HD
+#EXTINF:-1 group-title="International*" tvg-id="Kronehit.at" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Kronehit.png" ,Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 
