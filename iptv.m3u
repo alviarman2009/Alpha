@@ -157,8 +157,6 @@ http://103.229.254.25:7001/play/a05k/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ATNMusic.png" group-title="Bangladesh*",ATN Music
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/GaanBangla.png" group-title="Bangladesh*",Gaan Bangla
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/MusicBanglaTV.png" group-title="Bangladesh*",Music Bangla TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla2025.stream/tracks-v1a1/mono.m3u8
 
@@ -171,11 +169,12 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmy-bangla-tv.png" group-title="Bangladesh*",Filmy Bangla
 http://103.145.48.150:90/laosat24/filmytv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyQkFTjr/rbtv.webp" group-title="Bangladesh*",Ruposhi Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ruposhibangla.stream/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFxN39mq/nantv.png" group-title="Bangladesh*",NAN TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZgXvdVJ/ktv.webp" group-title="Bangladesh*",Khushboo Bangla ˢᵈ
-https://cdn-4.pishow.tv/live/1473/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1SRKTV.png" group-title="Bangladesh*",SRK TV ᴴᴰ
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
@@ -320,8 +319,8 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/RuposhiBangla.png" group-title="India • Bangla*",Ruposhi Bangla
 https://cdn-4.pishow.tv/live/1039/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyQkFTjr/rbtv.webp" group-title="Bangladesh*",Ruposhi Bangla ˢᵈ
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ruposhibangla.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZgXvdVJ/ktv.webp" group-title="India • Bangla*",Khushboo Bangla ˢᵈ
+https://cdn-4.pishow.tv/live/1473/master.m3u8
 
 #EXTINF:-55 tvg-logo="https://i.postimg.cc/FzV5CHyp/ob.webp" group-title="India • Bangla*",Orange Bangla
 https://cdn-4.pishow.tv/live/1499/master.m3u8
@@ -688,9 +687,6 @@ https://audio.streamcast.xyz/radio/8000/radio.mp3
 #EXTINF:-12 group-title="FM Radio*" tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bangla-net.png",Radio BanglaNet
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC
 
-#EXTINF:-13 group-title="FM Radio*" tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bbc-bangla.png",BBC Bangla
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/cellular_main_sd_abr_v2/cfs/bbc_world_service.mpd
-
 #EXTINF:-14 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/29420.v10.png" group-title="FM Radio*",Traffic FM 88.8
 http://as3.digitalsynapsebd.com:8263/;stream.mp3
 
@@ -702,12 +698,6 @@ https://as1.digitalsynapsebd.com/proxy/bbrajmw/stream/1/
 
 #EXTINF:-17 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/18894.v9.png",Radio Mirchi UAE
 https://eu8.fastcast4u.com/proxy/clyedupq
-
-#EXTINF:-18 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/95162.v6.png",BIG FM UAE
-https://funasia.streamguys1.com/live4
-
-#EXTINF:-19 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/89552.v6.png",Radio Mirchi NY
-https://listen.openstream.co/4603/audio
 
 #EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/44630.v16.png",BIG FM
 https://a2.asurahosting.com:8160/radio.mp3
@@ -722,7 +712,6 @@ https://stream.zeno.fm/swfczwfqibptv
 https://radios.crabdance.com:8002/1
 
 #EXTINF: -1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/4320.v9.png" group-title="FM Radio*",radioBolly FM
-#https://stream-160.zeno.fm/zu59ykebs2zuv
 https://antares.dribbcast.com/proxy/radiobolly/stream.mp3
 
 #EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/118967.v3.png",Provat FM
@@ -769,7 +758,4 @@ https://stream.zeno.fm/vdrtn8ffgrruv
 
 #EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/90397.v6.png",Radio Purbakantho
 https://stream.zeno.fm/6nuqpxcw81zuv
-
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://i.postimg.cc/NMQq7m01/Radio-Malda.jpg",Radio Malda Kolkata
-https://stream.zeno.fm/xx0u1tpf6ehvv
 
