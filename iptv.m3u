@@ -440,13 +440,13 @@ http://jmrj02jibon02khan.vercel.app/tracks-v1a1/andpictures/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeTVHD2.png" group-title="India • Hindi*",Zee TV
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeetv/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeCafeSD.png" group-title="India • Hindi*",Zee Café
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeCafe2.png" group-title="India • Hindi*",Zee Café
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeecafehd/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeAnmol.png" group-title="India • Hindi*",Zee Anmol
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zee-anmol/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeCinemaHD.png" group-title="India • Hindi*",Zee Cinema
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeCinema2.png" group-title="India • Hindi*",Zee Cinema
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeecinema/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeAction.png" group-title="India • Hindi*",Zee Action
@@ -462,7 +462,7 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDT92jnS/dangal2.jpg" group-title="India • Hindi*",Dangal 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-110 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyTV.png" group-title="India • Hindi*",Sony TV
+#EXTINF:-110 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Sony.png" group-title="India • Hindi*",Sony TV
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonytv/mono.ts.m3u8
 
 #EXTINF:-110 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonySab.png" group-title="India • Hindi*",Sony Sab
@@ -471,11 +471,26 @@ http://206.212.244.71:8080/BRIDGITS@YAHOO.COM/BRIDGITS@2022/125809
 #EXTINF:-110 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyMax.png" group-title="India • Hindi*",Sony Max
 http://nocable.cc:8080/789588/114528/125814
 
+#EXTINF:-110 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyMax.png" group-title="India • Hindi*",Sony Max.
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonymax/mono.ts.m3u8
+
+#EXTINF:-110 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyMax2.png" group-title="India • Hindi*",Sony Max 2
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonymax2/mono.ts.m3u8
+
+#EXTINF:-110 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyYay.png" group-title="India • Hindi*",Sony Yay!
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonyyay/mono.ts.m3u8
+
+#EXTINF:-110 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyPix.png" group-title="India • Hindi*",Sony Pix
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonypix/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/BollywoodHD.png" group-title="India • Hindi*",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/BollywoodClassicHD.png" group-title="India • Hindi*",Bollywood Classic HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/B4UMovies.png" group-title="India • Hindi*",B4U Movies APAC
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/b4umovies/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/B4UMovies.png" group-title="India • Hindi*",B4U Movies
 #https://cdnb4u.wiseplayout.com/B4U_Movies/SD216/SD216.m3u8
