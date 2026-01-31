@@ -237,6 +237,9 @@ https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/CN2010.png" group-title="Pakistan*",Cartoon Network Urdu
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/CN2010.png" group-title="Pakistan*",Cartoon Network HD+
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/cartoonnetwork/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/8XM2011.webp" group-title="Pakistan*",8XM
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 
@@ -244,7 +247,14 @@ https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 http://124.109.47.101/hls/stream1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/HumTV.png" group-title="Pakistan*",Hum TV
-https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+#https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/humtv/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/HumSitaray.png" group-title="Pakistan*",Hum Sitaray
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/humsitarey/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/HumMasala.jpg" group-title="Pakistan*",Hum Masala
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/hummasala/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wj03wqm7/geoent.png" group-title="Pakistan*",Geo Entertainment
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
@@ -308,6 +318,9 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 
 #EXTINF:-1 tvg-id="ZBCinema.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZBCinema.png" group-title="India • Bangla*",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-5 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeBanglaSonar.png" group-title="India • Bangla*",Zee Bangla Sonar
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeebanglacinema/mono.ts.m3u8
 
 #EXTINF:-5 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ColorsBanglaHD.png" group-title="India • Bangla*",Colors Bangla HD
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
@@ -409,10 +422,32 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ShemarooBollywood.png" group-title="India • Hindi*",Shemaroo Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/playlist.m3u8
 
+#EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ColorsHD.png" group-title="India • Hindi*",Colors HD
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/colors/mono.ts.m3u8
+
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/BvSDCkng/blyflx.png" group-title="India • Hindi*",NH BollyFlix
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AndTV.png" group-title="India • Hindi*",&TV
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/andtvhd/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AndPictures.png" group-title="India • Hindi*",&Pictures
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/andpictures/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeTV.png" group-title="India • Hindi*",Zee TV
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeetv/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeAnmol.png" group-title="India • Hindi*",Zee Anmol
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zee-anmol/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeCinema.png" group-title="India • Hindi*",Zee Cinema
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeecinema/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeAction.png" group-title="India • Hindi*",Zee Action
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeeaction/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeBollywood2.png" group-title="India • Hindi*",Zee Bollywood
+#http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeebollywood/mono.ts.m3u8
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 
 #EXTINF:-1 tvg-id="DangalTV.in" tvg-logo="https://i.postimg.cc/8P4wrBCL/dangal.png" group-title="India • Hindi*",Dangal TV
