@@ -425,7 +425,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ShemarooBollywood.png" group-title="India • Hindi*",Shemaroo Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/playlist.m3u8
 
-#EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ColorsHD.png" group-title="India • Hindi*",Colors HD
+#EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ColorsHD.png" group-title="India • Hindi*",Colors ᴴᴰ
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/colors/mono.ts.m3u8
 
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/BvSDCkng/blyflx.png" group-title="India • Hindi*",NH BollyFlix
@@ -446,11 +446,11 @@ http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeecafehd/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeAnmol.png" group-title="India • Hindi*",Zee Anmol
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zee-anmol/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeCinema2.png" group-title="India • Hindi*",Zee Cinema
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeecinema/mono.ts.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeAction.png" group-title="India • Hindi*",Zee Action
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeeaction/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeCinema2.png" group-title="India • Hindi*",Zee Cinema ᴴᴰ
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeecinema/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeBollywood2.png" group-title="India • Hindi*",Zee Bollywood
 #http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeebollywood/mono.ts.m3u8
@@ -477,11 +477,11 @@ http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonymax/mono.ts.m3u8
 #EXTINF:-110 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyMax2.png" group-title="India • Hindi*",Sony Max 2
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonymax2/mono.ts.m3u8
 
-#EXTINF:-110 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyYay.png" group-title="India • Hindi*",Sony Yay!
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonyyay/mono.ts.m3u8
-
 #EXTINF:-110 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyPix.png" group-title="India • Hindi*",Sony Pix
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonypix/mono.ts.m3u8
+
+#EXTINF:-110 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyYay2.png" group-title="India • Hindi*",Sony Yay!
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonyyay/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/BollywoodHD.png" group-title="India • Hindi*",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
@@ -666,8 +666,23 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-id="TRTWorld.tr" group-title="International*" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TRTWorld.png",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-5 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DiscoveryChannel2013.webp" group-title="International*",Discovery ᴴᴰ
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/discoveryhd/mono.ts.m3u8
+
 #EXTINF:-5 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DiscoveryChannel2013.webp" group-title="International*",Discovery English
 http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
+
+#EXTINF:-5 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DiscoveryScience2.webp" group-title="International*",Discovery Science
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/discoveryscience/mono.ts.m3u8
+
+#EXTINF:-5 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ID.png" group-title="International*",Discovery Investigation ᴴᴰ
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/discoveryhdinvestigation/mono.ts.m3u8
+
+#EXTINF:-5 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DiscoveryKids.png" group-title="International*",Discovery Kids
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/discoverykids/mono.ts.m3u8
+
+#EXTINF:-5 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Pogo.png" group-title="International*",Pogo
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/pogo/mono.ts.m3u8
 
 #EXTINF:-6 tvg-logo="https://i.postimg.cc/s2jrSsy0/ngw.png" group-title="International*",Nat Geo Wild
 https://d1tm3cz23db55z.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildTV/476.m3u8
@@ -687,6 +702,9 @@ http://65.108.239.207/bbc/index.m3u8
 #EXTINF:-10 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AnimalPlanet2008.png" group-title="International*",Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
+#EXTINF:-10 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AnimalPlanet2008.png" group-title="International*",Animal Planet ᴴᴰ
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/animalplanet/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/WildEarth.png" group-title="International*",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
 
@@ -696,7 +714,7 @@ http://143.244.60.97/MTV_LIVE/index.m3u8
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/VNfQVfzR/mtvcus.png" group-title="International*",MTV Classic SD
 http://143.244.60.97/MTV_CLASSIC/index.m3u8
 
-#EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/MixHollywoodTV.png" group-title="International*",MIX Hollywood
+#EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/MixHollywoodTV.png" group-title="International*",Mix Hollywood
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/pLRFtgQG/vevo.png" group-title="International*",Vevo
