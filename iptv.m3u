@@ -17,6 +17,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:-6 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1DBCNEWS.png" group-title="Bangladesh*",DBC News ᴴᴰ
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
+#http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 http://103.229.254.25:7001/play/a06h/index.m3u8
 
 #EXTINF:-7 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1ATNNEWS.png" group-title="Bangladesh*",ATN News
@@ -107,7 +108,7 @@ http://116.204.149.16/mytv/index.m3u8
 
 #EXTINF:-29 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1GTV.png" group-title="Bangladesh*",Gazi TV
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
-http://103.229.254.25:7001/play/a06t/index.m3u8
+http://ziboflow.ott-king.top:8080/gtv/index.m3u8
 
 #EXTINF:-30 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1BIJOYTV.png" group-title="Bangladesh*",Bijoy TV
 http://103.229.254.25:7001/play/a066/index.m3u8
@@ -145,6 +146,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 http://103.229.254.25:7001/play/a05v/index.m3u8
 
 #EXTINF:-40 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1NAGORIKTV.png" group-title="Bangladesh*",Nagorik TV
+#http://ziboflow.ott-king.top:8080/starplus/index.m3u8
 http://116.204.149.16/nagorik/index.m3u8
 
 #EXTINF:-41 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1MOHONATV.png" group-title="Bangladesh*",Mohona TV
@@ -282,9 +284,14 @@ https://ml-pull-dvc-myco.io:2096/DISCOVER_PAKISTAN/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ABPAnanda.png" group-title="India • Bangla*",ABP Ananda
+https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TV9Bangla.png" group-title="India • Bangla*",TV9 Bangla
+#https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bangla/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/NKTVBangla.png" group-title="India • Bangla*",NK TV Bangla
+https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/News18Bangla.png" group-title="India • Bangla*",News18 Bangla ᴴᴰ
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
@@ -300,7 +307,8 @@ https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/KolkataTV.png" group-title="India • Bangla*",Kolkata TV
-https://mumt01.tangotv.in/KOLKATATV/index.m3u8
+#https://mumt01.tangotv.in/KOLKATATV/index.m3u8
+https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 
 #EXTINF:-1 tvg-id="ZBMusic.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZBMusic.png" group-title="India • Bangla*",ZB Music
 https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
@@ -317,7 +325,7 @@ http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeebangla/mono.ts.m3u8
 #EXTINF:-5 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeBanglaCinema.png" group-title="India • Bangla*",Zee Bangla Sonar
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeebanglacinema/mono.ts.m3u8
 
-#EXTINF:-5 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ColorsBanglaHD.png" group-title="India • Bangla*",Colors Bangla HD
+#EXTINF:-5 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ColorsBanglaHD.png" group-title="India • Bangla*",Colors Bangla ᴴᴰ
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 
 #EXTINF:-9 tvg-id="sangeetbangla.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SangeetBangla.png" group-title="India • Bangla*",Sangeet Bangla
@@ -341,11 +349,11 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TaraTV.png" group-title="India • Bangla*",Tara TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tara-tv/index.m3u8
 
-#EXTINF:-55 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/BanglaPlus.jpg" group-title="India • Bangla*",Bangla+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/BanglaPlus.jpg" group-title="India • Bangla*",Bangla+
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/zodiaktv.stream/tracks-v1a1/mono.m3u8
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
-#EXTINF:-56 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DDBangla.png" group-title="India • Bangla*",DD Bangla
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DDBangla.png" group-title="India • Bangla*",DD Bangla
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 
 #EXTINF:-1 tvg-id="enter10bangla.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Enterr10Bangla.png" group-title="India • Bangla*",Enterr10 Bangla
@@ -360,15 +368,14 @@ http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/BHIChannel.png" group-title="India • Bangla*",BHI Channel
 http://15.235.185.236/hls/bhi.m3u8
 
-#EXTINF:-56 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyAath.png" group-title="India • Bangla*",Sony Aath
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyAath.png" group-title="India • Bangla*",Sony Aath
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dyg5D4Sx/Rongeen-TV.png" group-title="India • Bangla*",Rongeen TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/StarJalsha.png" group-title="India • Bangla*",Star Jalsha ᴴᴰ
 http://ziboflow.ott-king.top:8080/starjalsha/index.m3u8
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/StarJalshaMovies.webp" group-title="India • Bangla*",Star Jalsha Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/StarJalshaMovies.webp" group-title="India • Bangla*",Star Jalsha Movies
 http://ziboflow.ott-king.top:8080/dd/index.m3u8
 
 
@@ -376,7 +383,7 @@ http://ziboflow.ott-king.top:8080/dd/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/9XJalwa2.png" group-title="India • Hindi*",9X Jalwa
-
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/9XJhakaas.png" group-title="India • Hindi*",9X Jhakaas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
@@ -414,11 +421,12 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/QNf8zMJK/bm.png" group-title="India • Hindi*",Bollywood Masala
 
 #EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ShemarooBollywood.png" group-title="India • Hindi*",Shemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ColorsHD.png" group-title="India • Hindi*",Colors ᴴᴰ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ColorsHD.png" group-title="India • Hindi*",Colors ᴴᴰ
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/colors/mono.ts.m3u8
 
-#EXTINF:-28 tvg-logo="https://i.postimg.cc/BvSDCkng/blyflx.png" group-title="India • Hindi*",NH BollyFlix
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvSDCkng/blyflx.png" group-title="India • Hindi*",NH BollyFlix
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AndTVHD.png" group-title="India • Hindi*",&TV
@@ -471,6 +479,7 @@ http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonymax2/mono.ts.m3u8
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonypix/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/BollywoodHD.png" group-title="India • Hindi*",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/d3227daf-ea13-48c9-95a4-1619862d136e/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/BollywoodClassicHD.png" group-title="India • Hindi*",Bollywood Classic HD
 
@@ -493,17 +502,25 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/in
 #EXTINF:-1 tvg-id="Wild Flix" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/WildFlix.png" group-title="India • Hindi*",Wild Flix Hindi
 https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/IQJW/WBD/WildFlix_IN/WildFlix_IN.m3u8
 
-#EXTINF:-28 tvg-logo="https://i.postimg.cc/GmYG5RX8/sum.webp" group-title="India • Hindi*",Star Utsav Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/StarPlus.png" group-title="India • Hindi*",Star Plus
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/StarUtsavMovies.png" group-title="India • Hindi*",Star Utsav Movies
 http://103.78.149.54:8000/play/a00m/index.m3u8
 
-#EXTINF:-50 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/HD.png" group-title="India • Hindi*",Movie Bangla ˢᵈ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/HD.png" group-title="India • Hindi*",Movie Bangla ˢᵈ
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 
-#EXTINF:-50 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/HD.png" group-title="India • Hindi*",Movie Hindi ˢᵈ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/HD.png" group-title="India • Hindi*",Movie Hindi ˢᵈ
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 
-#EXTINF:-84 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Zoom.png" group-title="India • Hindi*",Zoom
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Zoom.png" group-title="India • Hindi*",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Goldmines.png" group-title="India • Hindi*",Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Goldmines.png" group-title="India • Hindi*",Goldmines 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
 
 #EXTINF:-1 tvg-id="GoldminesMovies.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Goldmines.png" group-title="India • Hindi*",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
@@ -593,6 +610,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/in
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 
 #EXTINF:-1 tvg-id="indiatoday.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/IndiaToday.png" group-title="India • Hindi*",India Today
+#https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 https://feeds.intoday.in/hltapps/api/master.m3u8
 
 #EXTINF:-1 tvg-id="IndiaTV.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/IndiaTV.png" group-title="India • Hindi*",India TV
@@ -646,6 +664,9 @@ http://jmrj02jibon02khan.vercel.app/tracks-v1a1/discoveryscience/mono.ts.m3u8
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/discoveryhdinvestigation/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2jrSsy0/ngw.png" group-title="International*",Nat Geo Wild
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2jrSsy0/ngw.png" group-title="International*",Wild TV
 https://d1tm3cz23db55z.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildTV/476.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGqWD10N/wn.png" group-title="International*",Wild Nature
@@ -696,6 +717,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/cartoonnetwork/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Nick.png" group-title="Kids*",Nick
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Pogo.png" group-title="Kids*",Pogo
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/pogo/mono.ts.m3u8
@@ -706,6 +728,8 @@ http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonyyay/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DiscoveryKids.png" group-title="Kids*",Discovery Kids
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/discoverykids/mono.ts.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dyg5D4Sx/Rongeen-TV.png" group-title="Kids*",Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/29309.v8.png",Radio Foorti!
