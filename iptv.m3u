@@ -105,7 +105,6 @@ http://116.204.149.16/mytv/index.m3u8
 
 #EXTINF:-29 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1GTV.png" group-title="Bangladesh*",Gazi TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
-#http://ziboflow.ott-king.top:8080/gtv/index.m3u8
 
 #EXTINF:-30 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1BIJOYTV.png" group-title="Bangladesh*",Bijoy TV
 http://103.229.254.25:7001/play/a066/index.m3u8
@@ -119,7 +118,7 @@ http://103.229.254.25:7001/play/a05s/index.m3u8
 http://103.229.254.25:7001/play/a063/index.m3u8
 
 #EXTINF:-33 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1EKHONTV.png" group-title="Bangladesh*",Ekhon TV
-#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 
 #EXTINF:-34 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1NEXUSTV.png" group-title="Bangladesh*",Nexus TV
 http://103.229.254.25:7001/play/a05m/index.m3u8
@@ -372,7 +371,7 @@ http://ziboflow.ott-king.top:8080/dd/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/9XM2.png" group-title="India • Hindi*",9XM
-
+https://wiselp.wiseplayout.com/9XM/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/9XJalwa2.png" group-title="India • Hindi*",9X Jalwa
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
