@@ -312,22 +312,22 @@ https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeBangla.png" group-title="India • Bangla*",Zee Bangla
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeebangla/mono.ts.m3u8
 
-#EXTINF:-5 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeBanglaCinema.png" group-title="India • Bangla*",Zee Bangla Sonar
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeBanglaCinema.png" group-title="India • Bangla*",Zee Bangla Sonar
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeebanglacinema/mono.ts.m3u8
 
-#EXTINF:-5 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ColorsBanglaHD.png" group-title="India • Bangla*",Colors Bangla ᴴᴰ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ColorsBanglaHD.png" group-title="India • Bangla*",Colors Bangla ᴴᴰ
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 
-#EXTINF:-9 tvg-id="sangeetbangla.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SangeetBangla.png" group-title="India • Bangla*",Sangeet Bangla
+#EXTINF:-1 tvg-id="sangeetbangla.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SangeetBangla.png" group-title="India • Bangla*",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
-#EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/RuposhiBangla.png" group-title="India • Bangla*",Ruposhi Bangla
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/RuposhiBangla.png" group-title="India • Bangla*",Ruposhi Bangla
 https://cdn-4.pishow.tv/live/1039/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZgXvdVJ/ktv.webp" group-title="India • Bangla*",Khushboo Bangla ˢᵈ
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 
-#EXTINF:-55 tvg-logo="https://i.postimg.cc/FzV5CHyp/ob.webp" group-title="India • Bangla*",Orange Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzV5CHyp/ob.webp" group-title="India • Bangla*",Orange Bangla
 https://cdn-4.pishow.tv/live/1499/master.m3u8
 
 #EXTINF:-1 tvg-id="akashaat.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AkashAath.png" group-title="India • Bangla*",Akash Aath
@@ -383,13 +383,13 @@ https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/B4UMusic.png" group-title="India • Hindi*",B4U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
 
-#EXTINF:-28 tvg-id="B4UKadak.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/B4UKadak.png" group-title="India • Hindi*",B4U Kadak
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/B4UKadak.png" group-title="India • Hindi*",B4U Kadak
 https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 
-#EXTINF:-50 tvg-logo="https://i.postimg.cc/VL2t6Y0M/Music-India.png" group-title="India • Hindi*",Music India ˢᵈ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL2t6Y0M/Music-India.png" group-title="India • Hindi*",Music India ˢᵈ
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
-#EXTINF:-87 tvg-logo="https://i.postimg.cc/Rh6F5HRP/bbtv.png" group-title="India • Hindi*",Balle Balle TV 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rh6F5HRP/bbtv.png" group-title="India • Hindi*",Balle Balle TV 
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKg0BPSM/joom.png" group-title="India • Hindi*",Joo Music
@@ -401,15 +401,15 @@ https://epiconvh.akamaized.net/live/showbox/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/HD.png" group-title="India • Hindi*",Hindi Hits
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
-#EXTINF:-87 tvg-logo="https://i.postimg.cc/8Pv5ZLsw/batv.png" group-title="India • Hindi*",BritAsiaTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Pv5ZLsw/batv.png" group-title="India • Hindi*",BritAsiaTV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SagaMusic.png" group-title="India • Hindi*",Saga Music HD
 
-#EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SagaMusicHaryanvi.png" group-title="India • Hindi*",Saga Music Haryanvi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SagaMusicHaryanvi.png" group-title="India • Hindi*",Saga Music Haryanvi
 
-#EXTINF:-28 tvg-logo="https://i.postimg.cc/QNf8zMJK/bm.png" group-title="India • Hindi*",Bollywood Masala
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNf8zMJK/bm.png" group-title="India • Hindi*",Bollywood Masala
 
-#EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ShemarooBollywood.png" group-title="India • Hindi*",Shemaroo Bollywood
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ShemarooBollywood.png" group-title="India • Hindi*",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ColorsHD.png" group-title="India • Hindi*",Colors ᴴᴰ
@@ -449,22 +449,22 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDT92jnS/dangal2.jpg" group-title="India • Hindi*",Dangal 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-110 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Sony.png" group-title="India • Hindi*",Sony TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Sony.png" group-title="India • Hindi*",Sony TV
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonytv/mono.ts.m3u8
 
-#EXTINF:-110 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonySab.png" group-title="India • Hindi*",Sony Sab
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonySab.png" group-title="India • Hindi*",Sony Sab
 http://206.212.244.71:8080/BRIDGITS@YAHOO.COM/BRIDGITS@2022/125809
 
-#EXTINF:-110 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyMax.png" group-title="India • Hindi*",Sony Max
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyMax.png" group-title="India • Hindi*",Sony Max
 http://nocable.cc:8080/789588/114528/125814
 
-#EXTINF:-110 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyMax.png" group-title="India • Hindi*",Sony Max.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyMax.png" group-title="India • Hindi*",Sony Max.
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonymax/mono.ts.m3u8
 
-#EXTINF:-110 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyMax2.png" group-title="India • Hindi*",Sony Max 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyMax2.png" group-title="India • Hindi*",Sony Max 2
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonymax2/mono.ts.m3u8
 
-#EXTINF:-110 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyPix.png" group-title="India • Hindi*",Sony Pix
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyPix.png" group-title="India • Hindi*",Sony Pix
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonypix/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/BollywoodHD.png" group-title="India • Hindi*",Bollywood HD
@@ -517,7 +517,7 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SouthStation.png" group-title="India • Hindi*",South Station
 https://jmp2.uk/stvp-IN3800008CX
 
-#EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TMC.jpeg" group-title="India • Hindi*",The Movie Club
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TMC.jpeg" group-title="India • Hindi*",The Movie Club
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bYxYbp56/Pitaara.png" group-title="India • Hindi*", Pitaara TV
@@ -628,7 +628,7 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 #EXTINF:-1 tvg-id="dwnews" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DW.png" group-title="International*",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
-#EXTINF:-3 tvg-id="WION.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/WION.png" group-title="International*",WION
+#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/WION.png" group-title="International*",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/CGTN.png" group-title="International*",CGTN
@@ -724,51 +724,51 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/29309.v8.png",Radio Foorti!
 https://stream.zeno.fm/cwa3vg8s8druv
 
-#EXTINF:-2 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/29209.v9.png" group-title="FM Radio*",Radio Today
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/29209.v9.png" group-title="FM Radio*",Radio Today
 http://stream-144.zeno.fm/8wv4d8g4344tv?zs=OM6q0RfuRDi1X6Tty62qhA
 
-#EXTINF:-3 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/29210.v6.png",Dhaka FM
+#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/29210.v6.png",Dhaka FM
 http://118.179.219.244:8000/;
 
-#EXTINF:-4 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/73208.v8.png",Spice FM
+#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/73208.v8.png",Spice FM
 https://stream.spicefmbd.com/stream.m3u8
 
-#EXTINF:-5 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/84057.v6.png",Jago FM
+#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/84057.v6.png",Jago FM
 http://139.59.86.99:12496/stream/1/
 
-#EXTINF:-6 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/29428.v7.png",Peoples Radio
+#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/29428.v7.png",Peoples Radio
 https://s3.myradiostream.com:14498/listen.mp3?nocache=1767616882
 
-#EXTINF:-7 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/29211.v5.png" group-title="FM Radio*",Radio Shadhin
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/29211.v5.png" group-title="FM Radio*",Radio Shadhin
 http://stream-157.zeno.fm/umq9q5uuva5tv?zs=RZTxFKUnRZeT5gVmKwDoCA
 
-#EXTINF:-8 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/29432.v11.png",Radio Bhumi
+#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/29432.v11.png",Radio Bhumi
 https://stream.zeno.fm/be5bqmk1k18uv
 
-#EXTINF:-9 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/29431.v5.png",Radio Dhoni
+#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/29431.v5.png",Radio Dhoni
 https://stream.zeno.fm/2yihdjutno9tv
 
-#EXTINF:-10 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/29437.v8.png",Radio Padma
+#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/29437.v8.png",Radio Padma
 https://radiopadmabd.radioca.st/stream/1/
 
-#EXTINF:-11 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/29317.v9.png",Radio GoonGoon
+#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/29317.v9.png",Radio GoonGoon
 https://audio.streamcast.xyz/radio/8000/radio.mp3
 
-#EXTINF:-12 group-title="FM Radio*" tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bangla-net.png",Radio BanglaNet
+#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bangla-net.png",Radio BanglaNet
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC
 
-#EXTINF:-14 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/29420.v10.png" group-title="FM Radio*",Traffic FM 88.8
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/29420.v10.png" group-title="FM Radio*",Traffic FM 88.8
 #http://as3.digitalsynapsebd.com:8263/;stream.mp3
 http://as1.digitalsynapsebd.com:8263/
 
-#EXTINF:-15 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/29420.v10.png",Commercial 104.0
+#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/29420.v10.png",Commercial FM
 #https://as1.digitalsynapsebd.com/proxy/bbdkka/stream/1/
 http://as1.digitalsynapsebd.com:8456/
 
-#EXTINF:-16 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/29420.v10.png",Chattogram 88.8
+#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/29420.v10.png",Chattogram FM
 http://as3.digitalsynapsebd.com:9236/
 
-#EXTINF:-17 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/18894.v9.png",Radio Mirchi
+#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/18894.v9.png",Radio Mirchi
 https://eu8.fastcast4u.com/proxy/clyedupq
 
 #EXTINF:-1 group-title="FM Radio*" tvg-logo="https://i.postimg.cc/nV0mPF0T/radioin.webp",Office Radio
@@ -783,7 +783,7 @@ https://stream.zeno.fm/swfczwfqibptv
 #EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/86938.v3.png",Radio Mirchi Tamil
 https://radios.crabdance.com:8002/1
 
-#EXTINF: -1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/4320.v9.png" group-title="FM Radio*",radioBolly FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/4320.v9.png" group-title="FM Radio*",radioBolly FM
 https://antares.dribbcast.com/proxy/radiobolly/stream.mp3
 
 #EXTINF:-1 group-title="FM Radio*" tvg-logo="https://i.postimg.cc/76rLJcn3/Rdo24.png",Provat FM
@@ -830,4 +830,3 @@ https://stream.zeno.fm/vdrtn8ffgrruv
 
 #EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/90397.v6.png",Radio Purbakantho
 https://stream.zeno.fm/6nuqpxcw81zuv
-
