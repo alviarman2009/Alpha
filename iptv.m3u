@@ -157,11 +157,11 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ATNMusic.png" group-title="Bangladesh*",ATN Music
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/MusicBanglaTV.png" group-title="Bangladesh*",Music Bangla TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla2025.stream/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/BengaliBeats.png" group-title="Bangladesh*",Bengali Beats ˢᵈ
 https://tplay.live/originals/bengali-beats/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/MusicBanglaTV.png" group-title="Bangladesh*",Music Bangla TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla2025.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/MovieBanglaTV.png" group-title="Bangladesh*",Movie Bangla TV
 http://alvetv.com/moviebanglatv/8080/index.m3u8
@@ -318,7 +318,13 @@ http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeebangla/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeBanglaCinema.png" group-title="India • Bangla*",Zee Bangla Cinema
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeebanglacinema/mono.ts.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ColorsBanglaSD.png" group-title="India • Bangla*",Colors Bangla
+https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ColorsBanglaHD.png" group-title="India • Bangla*",Colors Bangla ᴴᴰ
+https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ColorsBanglaCinema.png" group-title="India • Bangla*",Colors Bangla Cinema
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzV5CHyp/ob.webp" group-title="India • Bangla*",Orange Bangla
