@@ -431,6 +431,9 @@ http://jmrj02jibon02khan.vercel.app/tracks-v1a1/andtvhd/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AndPicturesHD.png" group-title="India • Hindi*",&Pictures
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/andpictures/mono.ts.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Zing.png" group-title="India • Hindi*",Zing
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeecinema/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeTVHD2.png" group-title="India • Hindi*",Zee TV
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeetv/mono.ts.m3u8
 
@@ -444,6 +447,12 @@ http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zee-anmol/mono.ts.m3u8
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeeaction/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeCinema2.png" group-title="India • Hindi*",Zee Cinema ᴴᴰ
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeecinema/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeClassic.png" group-title="India • Hindi*",Zee Classic
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeecinema/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeBusiness.png" group-title="India • Hindi*",Zee Business
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeecinema/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeBollywood2.png" group-title="India • Hindi*",Zee Bollywood
