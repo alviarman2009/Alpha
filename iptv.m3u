@@ -70,7 +70,7 @@ http://116.204.149.16/rtvhd/index.m3u8
 #EXTINF:-18 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1NTV.png" group-title="Bangladesh*",NTV ᴴᴰ
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/NTV.png" group-title="Bangladesh*",NTV UK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/NTV.webp" group-title="Bangladesh*",NTV UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1BTV.png" group-title="Bangladesh*",BTV ᴴᴰ
