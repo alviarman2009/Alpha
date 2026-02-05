@@ -321,7 +321,7 @@ http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeebanglacinema/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ColorsBanglaSD2.png" group-title="India • Bangla*",Colors Bangla
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ColorsBanglaHD2.png" group-title="India • Bangla*",Colors Bangla ᴴᴰ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ColorsBanglaHD2.webp" group-title="India • Bangla*",Colors Bangla ᴴᴰ
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ColorsBanglaCinema.png" group-title="India • Bangla*",Colors Bangla Cinema
@@ -436,7 +436,7 @@ http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeetv/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeTVHD.png" group-title="India • Hindi*",Zee TV ᴴᴰ
 https://padmaonline.duckdns.org:8088/ZeeTVHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeCafe2.png" group-title="India • Hindi*",Zee Café
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeCafeSD.png" group-title="India • Hindi*",Zee Café
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeecafehd/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeAnmol.png" group-title="India • Hindi*",Zee Anmol
