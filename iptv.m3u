@@ -664,8 +664,20 @@ https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="cna.sg" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/CNA.png" group-title="International*",CNA News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ABCAustralia.png" group-title="International*",ABC Australia
+https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/PressTV.png" group-title="International*",Press TV Iran
+https://live.presstv.ir/hls/presstv_5_482/279071.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/France24.png" group-title="International*",France 24 English
+https://cdn10jtedge.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
+
 #EXTINF:-1 tvg-id="TRTWorld.tr" group-title="International*" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TRTWorld.png",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/NHKWorld.png" group-title="International*",NHK World
+https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DiscoveryHD.png" group-title="International*",Discovery ᴴᴰ
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/discoveryhd/mono.ts.m3u8
