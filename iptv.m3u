@@ -208,33 +208,6 @@ https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tra
 http://103.229.254.25:7001/play/a0eo/index.m3u8
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/GeoNews.png" group-title="International*",Geo News
-https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AikNews.png" group-title="International*",Aik News
-https://video.primexsports.com/pnn/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/City41.jpeg" group-title="International*",City 41
-http://163.61.227.29:8000/play/a02r/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/LahoreNews5.png" group-title="International*",Lahore News
-https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DunyaNews.webp" group-title="International*",Dunya News
-#https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
-https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DunyaNews.webp" group-title="International*",Dunya News UK
-https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0mpQrB0/dptv.png" group-title="International*",Discover Pakistan HD
-#https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
-https://ml-pull-dvc-myco.io:2096/DISCOVER_PAKISTAN/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Zee24Ghanta.png" group-title="India • Bangla*",Zee 24 Ghanta
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
 
@@ -623,22 +596,18 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DiscoveryHD.png" group-title="International*",Discovery ᴴᴰ
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/discoveryhd/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Discovery.png" group-title="International*",Discovery Channel
 http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DiscoveryScience.png" group-title="International*",Discovery Science
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/discoveryscience/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/IDHD.png" group-title="International*",Discovery Investigation ᴴᴰ
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/discoveryhdinvestigation/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AnimalPlanet.png" group-title="International*",Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AnimalPlanet2.png" group-title="International*",Animal Planet ᴴᴰ
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/animalplanet/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2jrSsy0/ngw.png" group-title="International*",Nat Geo Wild
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
@@ -671,19 +640,15 @@ https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/CN2.png" group-title="International*",Cartoon Network ᴴᴰ
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/cartoonnetwork/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Nick.png" group-title="International*",Nick
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Pogo.png" group-title="International*",Pogo
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/pogo/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyYay.png" group-title="International*",Sony Yay!
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonyyay/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DiscoveryKids.png" group-title="International*",Discovery Kids
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/discoverykids/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dyg5D4Sx/Rongeen-TV.png" group-title="International*",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
@@ -703,6 +668,30 @@ https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wj03wqm7/geoent.png" group-title="International*",Geo Entertainment
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/GeoNews.png" group-title="International*",Geo News
+https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AikNews.png" group-title="International*",Aik News
+https://video.primexsports.com/pnn/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/City41.jpeg" group-title="International*",City 41
+http://163.61.227.29:8000/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/LahoreNews5.png" group-title="International*",Lahore News
+https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DunyaNews.webp" group-title="International*",Dunya News
+#https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DunyaNews.webp" group-title="International*",Dunya News UK
+https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0mpQrB0/dptv.png" group-title="International*",Discover Pakistan HD
+#https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+https://ml-pull-dvc-myco.io:2096/DISCOVER_PAKISTAN/index.m3u8
+
 
 
 #EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/29309.v8.png",Radio Foorti!
