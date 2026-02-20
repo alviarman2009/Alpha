@@ -145,6 +145,7 @@ http://103.229.254.25:7001/play/a05k/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/EtenTV.jpg" group-title="Bangladesh*",Ten Prime
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ATNMusic.png" group-title="Bangladesh*",ATN Music
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/BengaliBeats.png" group-title="Bangladesh*",Bengali Beats ˢᵈ
 https://tplay.live/originals/bengali-beats/index.m3u8
@@ -202,10 +203,13 @@ https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tra
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBmk86Fq/dbtv2.png" group-title="Bangladesh*",DesheBideshe TV
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q3DdG94/bb24.png" group-title="Bangladesh*",BiswaBangla24 TV
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh*",BiswaBangla24 TV
 
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh*",Star Bangla
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/StarBanglaTV.png" group-title="Bangladesh*",Star Bangla
 http://103.229.254.25:7001/play/a0eo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/RajdhaniTV.png" group-title="Bangladesh*", Rajdhani TV
+https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Zee24Ghanta.png" group-title="India • Bangla*",Zee 24 Ghanta
