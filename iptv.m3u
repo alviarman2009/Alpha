@@ -535,7 +535,7 @@ https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m
 #https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 https://feeds.intoday.in/hltapps/api/master.m3u8
 
-#EXTINF:-1 tvg-id="IndiaTV.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/IndiaTV.png" group-title="India • Hindi*",India TV
+#EXTINF:-1 tvg-id="IndiaTV.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/IndiaTV2.webp" group-title="India • Hindi*",India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
 
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AajTak2.png" group-title="India • Hindi*",Aaj Tak
