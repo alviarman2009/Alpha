@@ -7,6 +7,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/News24BD.png" group-title="Bangladesh*",News 24 ᴴᴰ
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 http://103.229.254.25:7001/play/a06i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1SOMOYTV.png" group-title="Bangladesh*",Somoy TV ᴴᴰ
@@ -23,6 +24,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1DBCNEWS.png" group-title="Bangladesh*",DBC News ᴴᴰ
 #http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 http://103.229.254.25:7001/play/a06h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1ATNNEWS.png" group-title="Bangladesh*",ATN News ᴴᴰ
@@ -40,6 +42,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Channel1.png" group-title="Bangladesh*",Channel 1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1CHANNEL9.png" group-title="Bangladesh*",Channel 9
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 http://103.229.254.25:7001/play/a05j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1CHANNELS.png" group-title="Bangladesh*",Channel S
@@ -113,6 +116,7 @@ http://103.229.254.25:7001/play/a066/index.m3u8
 http://103.229.254.25:7001/play/a063/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1EKHONTV.png" group-title="Bangladesh*",Ekhon TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1NEXUSTV.png" group-title="Bangladesh*",Nexus TV
 http://103.229.254.25:7001/play/a05m/index.m3u8
