@@ -391,10 +391,10 @@ https://dwby15d04agvq.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeBollywood2.png" group-title="India • Hindi*",Zee Bollywood
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 
-#EXTINF:-1 tvg-id="DangalTV.in" tvg-logo="https://i.postimg.cc/8P4wrBCL/dangal.png" group-title="India • Hindi*",Dangal TV
+#EXTINF:-1 tvg-id="DangalTV.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DangalTV.png" group-title="India • Hindi*",Dangal TV
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDT92jnS/dangal2.jpg" group-title="India • Hindi*",Dangal 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DangalTV2.webp" group-title="India • Hindi*",Dangal 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Sony.png" group-title="India • Hindi*",Sony TV
