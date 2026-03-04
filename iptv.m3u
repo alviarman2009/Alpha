@@ -373,8 +373,6 @@ https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeTVSD.png" group-title="India • Hindi*",Zee TV
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeTVHD.png" group-title="India • Hindi*",Zee TV ᴴᴰ
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeCafeSD.png" group-title="India • Hindi*",Zee Café
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeAnmol.png" group-title="India • Hindi*",Zee Anmol
@@ -591,10 +589,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/IDHD.png" group-title="International*",Discovery Investigation ᴴᴰ
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AnimalPlanet.png" group-title="International*",Animal Planet
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AnimalPlanet2.png" group-title="International*",Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AnimalPlanet2.png" group-title="International*",Animal Planet ᴴᴰ
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2jrSsy0/ngw.png" group-title="International*",Nat Geo Wild
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
