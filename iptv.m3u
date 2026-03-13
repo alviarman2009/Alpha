@@ -680,7 +680,6 @@ https://ml-pull-dvc-myco.io:2096/DISCOVER_PAKISTAN/index.m3u8
 
 
 #EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/29309.v8.png",Radio Foorti!
-https://stream.zeno.fm/cwa3vg8s8druv
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/29209.v9.png" group-title="FM Radio*",Radio Today
 http://stream-144.zeno.fm/8wv4d8g4344tv?zs=OM6q0RfuRDi1X6Tty62qhA
@@ -716,11 +715,9 @@ https://audio.streamcast.xyz/radio/8000/radio.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/29420.v10.png" group-title="FM Radio*",Traffic FM 88.8
-#http://as3.digitalsynapsebd.com:8263/;stream.mp3
 http://as1.digitalsynapsebd.com:8263/
 
 #EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/29420.v10.png",Commercial FM
-#https://as1.digitalsynapsebd.com/proxy/bbdkka/stream/1/
 http://as1.digitalsynapsebd.com:8456/
 
 #EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/29420.v10.png",Chattogram FM
