@@ -3,9 +3,9 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1INDEPENDENTTV.png" group-title="Bangladesh*",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Channel1.png" group-title="Bangladesh*",Channel 1 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Channel1.png" group-title="Bangladesh*",Channel One
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1CHANNEL24.png" group-title="Bangladesh*",Channel 24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Channel24.png" group-title="Bangladesh*",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/News24BD.png" group-title="Bangladesh*",News 24
@@ -41,14 +41,12 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Channeli.png" group-title="Bangladesh*",Channel i
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1CHANNEL9.png" group-title="Bangladesh*",Channel 9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Channel9.png" group-title="Bangladesh*",Channel 9
 #http://103.229.254.25:7001/play/a05j/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1CHANNELS.png" group-title="Bangladesh*",Channel S
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ChannelS.png" group-title="Bangladesh*",Channel S
 http://103.229.254.25:7001/play/a060/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Channel16.png" group-title="Bangladesh*",Channel 16
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/A1Bangla.png" group-title="Bangladesh*",Channel A1
 https://stream.shariarsuvo.com/hls_live2/channela1.m3u8
@@ -66,7 +64,7 @@ http://103.229.254.25:7001/play/a067/index.m3u8
 #http://116.204.149.16/maasranga/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1BANGLAVISION.png" group-title="Bangladesh*",BanglaVision
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/BanglaVision.png" group-title="Bangladesh*",BanglaVision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/RTV.png" group-title="Bangladesh*",RTV
@@ -130,7 +128,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/NexusTV.png" group-title="Bangladesh*",Nexus TV
 http://103.229.254.25:7001/play/a05m/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1GREENTV.png" group-title="Bangladesh*",Green TV ᴴᴰ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/GreenTV.png" group-title="Bangladesh*",Green TV ᴴᴰ
 #https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
 
@@ -150,7 +148,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AnandaTV.png" group-title="Bangladesh*",Ananda TV
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1NAGORIKTV.png" group-title="Bangladesh*",Nagorik TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/NagorikTV.png" group-title="Bangladesh*",Nagorik TV
 http://203.18.159.115/NAGORIK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/MohonaTV.png" group-title="Bangladesh*",Mohona TV
@@ -179,7 +177,6 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://iptvbd.live/metv1080/1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1SRKTV.png" group-title="Bangladesh*",SRK TV
-#https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/NanTV.png" group-title="Bangladesh*",NAN TV
@@ -192,19 +189,13 @@ https://www.tbn24.com/live-tv-stream/20201_.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/CBNTV.png" group-title="Bangladesh*",CBN TV
 https://live.cbntvusa.net/hls/cbntv/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh*",iON TV
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/NRBTV.png" group-title="Bangladesh*",NRB TV
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/CB24TV.png" group-title="Bangladesh*",CB24 TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ChannelSUK.png" group-title="Bangladesh*",Channel S UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh*",Channel 52
-
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh*",Channel TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ChannelEurope.png" group-title="Bangladesh*",Channel Europe
 https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
@@ -270,11 +261,11 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-id="ZBCinema.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZBCinema.png" group-title="India • Bangla*",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeBanglaHD.png" group-title="India • Bangla*",Zee Bangla
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeBangla.png" group-title="India • Bangla*",Zee Bangla
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeBanglaCinema2.png" group-title="India • Bangla*",Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeBanglaCinema.png" group-title="India • Bangla*",Zee Bangla Cinema
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ColorsBanglaHD2.webp" group-title="India • Bangla*",Colors Bangla
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ColorsBangla.webp" group-title="India • Bangla*",Colors Bangla
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ColorsBanglaCinema.png" group-title="India • Bangla*",Colors Bangla Cinema
 
@@ -315,6 +306,7 @@ http://15.235.185.236/hls/bhi.m3u8
 https://channelvision.livebox.co.in/channelvisionhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/StarJalsha.png" group-title="India • Bangla*",Star Jalsha
+http://103.229.254.25:7001/play/a0c0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/StarJalshaMovies.webp" group-title="India • Bangla*",Star Jalsha Movies
 
@@ -388,11 +380,11 @@ https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AndPicturesHD.png" group-title="India • Hindi*",&Pictures
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Zing2.png" group-title="India • Hindi*",Zing
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Zing.png" group-title="India • Hindi*",Zing
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeTVSD.png" group-title="India • Hindi*",Zee TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeTV.png" group-title="India • Hindi*",Zee TV
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeCafeSD.png" group-title="India • Hindi*",Zee Café
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeCafe.png" group-title="India • Hindi*",Zee Café
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeAnmol.png" group-title="India • Hindi*",Zee Anmol
 
@@ -420,8 +412,6 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyMax.png" group-title="India • Hindi*",Sony Max
 http://nocable.cc:8080/789588/114528/125814
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyMax2.png" group-title="India • Hindi*",Sony Max 2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyPix.png" group-title="India • Hindi*",Sony Pix
 
@@ -464,7 +454,7 @@ https://jmp2.uk/stvp-IN3800008CX
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TMC.jpeg" group-title="India • Hindi*",The Movie Club
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 
-#EXTINF:-1 tvg-id="starsports1hindi.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/StarSports1HD.png" group-title="India • Hindi*",Star Sports 1 Hindi
+#EXTINF:-1 tvg-id="starsports1hindi.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/StarSports1HD.png" group-title="India • Hindi*",Star Sports
 https://starsportshindiii.pages.dev/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DDSports.png" group-title="India • Hindi*",DD Sports
@@ -660,7 +650,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="International*",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/8XM.png" group-title="International*",8XM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/8XM.webp" group-title="International*",8XM
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/aurLifeTV.png" group-title="International*",aurLife TV
@@ -672,7 +662,8 @@ https://live.thebosstv.com:30443/dwlive/EXP-ENTERTAINMENT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/HumTV.png" group-title="International*",Hum TV
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/HumSitaray.png" group-title="International*",Hum Sitaray
+#EXTINF:-1 tvg-logo="" group-title="International*",MTV
+http://103.229.254.25:7001/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/HumMasala.jpg" group-title="International*",Hum Masala
 
