@@ -12,7 +12,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #http://103.229.254.25:7001/play/a06i/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1SOMOYTV.png" group-title="Bangladesh*",Somoy TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SomoyTV.png" group-title="Bangladesh*",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/EkattorTV.png" group-title="Bangladesh*",Ekattor TV
@@ -117,7 +117,7 @@ http://103.229.254.25:7001/play/a062/index.m3u8
 #http://116.204.149.16/mytv/index.m3u8
 http://103.229.254.25:7001/play/a05z/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/GTV.png" group-title="Bangladesh*",Gazi TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/GTVHD.png" group-title="Bangladesh*",Gazi TV
 http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/BijoyTV.png" group-title="Bangladesh*",Bijoy TV
