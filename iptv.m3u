@@ -222,6 +222,12 @@ https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tra
 
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh*",BiswaBangla24 TV
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AkashDigital.png" group-title="Bangladesh*",Akash DTH 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AkashDigital.png" group-title="Bangladesh*",Akash DTH 2
+https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/JaTV.png" group-title="Bangladesh*",JaTV
 https://iptv.porosh.com.bd/tmp_hls/86b122d4358357d834a87ce618a55de0/index.m3u8
 
@@ -283,14 +289,13 @@ https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeBanglaCinema.png" group-title="India • Bangla*",Zee Bangla Cinema
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ColorsBangla.webp" group-title="India • Bangla*",Colors Bangla
+http://103.229.254.25:7001/play/a0ds/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ColorsBanglaCinema.png" group-title="India • Bangla*",Colors Bangla Cinema
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzV5CHyp/ob.webp" group-title="India • Bangla*",Orange Bangla
-https://cdn-4.pishow.tv/live/1499/master.m3u8
+http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/RuposhiBangla.png" group-title="India • Bangla*",Ruposhi Bangla
-https://cdn-4.pishow.tv/live/1039/master.m3u8
+http://103.175.73.12:8080/live/664/664_0.m3u8
 
 #EXTINF:-1 tvg-id="sangeetbangla.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SangeetBangla.png" group-title="India • Bangla*",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
@@ -310,8 +315,6 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TaraTV.png" group-title="India • Bangla*",Tara TV
 https://legitpro.co.in/taratv/taratv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFphxTTs/tbc.png" group-title="India • Bangla*",Tara Bangla Cinema
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SonyAath.png" group-title="India • Bangla*",Sony Aath
 
 #EXTINF:-1 tvg-id="akashaat.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AkashAath.png" group-title="India • Bangla*",Akash Aath
@@ -326,6 +329,7 @@ https://channelvision.livebox.co.in/channelvisionhls/live.m3u8
 http://103.229.254.25:7001/play/a0c0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/StarJalshaMovies.webp" group-title="India • Bangla*",Star Jalsha Movies
+http://103.229.254.25:7001/play/a0dt/index.m3u8
 
 
 
