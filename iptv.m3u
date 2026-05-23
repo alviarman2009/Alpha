@@ -42,6 +42,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ChannelS.png" group-title="Bangladesh*",Channel S
+https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Channel16.png" group-title="Bangladesh*",Channel 16
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/A1Bangla.png" group-title="Bangladesh*",A1 Bangla
 
@@ -202,7 +206,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/JaTV.png" group-title="Bangladesh*",Ja TV
 https://iptv.porosh.com.bd/tmp_hls/86b122d4358357d834a87ce618a55de0/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh*",Thikana US
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh*",Thikana TV
 #https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/tracks-v1a1/mono.m3u8
 
@@ -210,6 +214,14 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/StarBanglaTV.png" group-title="Bangladesh*",Star Bangla
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/EnterTV.png" group-title="Bangladesh*",Enter TV
+https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/GalaxyTV.png" group-title="Bangladesh*",Galaxy TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytvbd.stream/tracks-v1a1/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Zee24Ghanta.png" group-title="India • Bangla*",Zee 24 Ghanta
