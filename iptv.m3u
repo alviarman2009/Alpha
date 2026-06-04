@@ -101,13 +101,15 @@ http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/BijoyTV.png" group-title="Bangladesh*",Bijoy TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DeshTV.png" group-title="Bangladesh*",Desh TV
+https://cdn.jsdelivr.net/gh/nurmd2006/empty@main/stream/by/your-abbu/deshtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AsianTV.png" group-title="Bangladesh*",Asian TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/EkhonTV.png" group-title="Bangladesh*",Ekhon TV
-
+https://tvsen6.aynaott.com/ekhontv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/NexusTV.png" group-title="Bangladesh*",Nexus TV
+https://tvsen6.aynaott.com/nexustv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/GreenTV.png" group-title="Bangladesh*",Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
@@ -125,10 +127,12 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1ANANDATV.png" group-title="Bangladesh*",Ananda TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/NagorikTV.png" group-title="Bangladesh*",Nagorik TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/MohonaTV.png" group-title="Bangladesh*",Mohona TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DurontoTV.png" group-title="Bangladesh*",Duronto TV
 
