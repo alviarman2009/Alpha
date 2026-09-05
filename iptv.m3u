@@ -2,6 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1INDEPENDENTTV.png" group-title="Bangladesh*",Independent TV
 #https://sm-monirul.top/@monirul_Islam_SM/play/independent_tv.m3u8
+https://stream.ottplus.bd/live/independent_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Channel24.png" group-title="Bangladesh*",Channel 24
 https://tvsen6.aynaott.com/YrVDF8gu/index.m3u8
@@ -37,7 +38,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Channel1.png" group-title="Bangladesh*",Channel 1
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1CHANNEL9.png" group-title="Bangladesh*",Channel 9
 
@@ -53,7 +55,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/EkusheyTV.png" group-title="Bangladesh*",Ekushey TV
 #http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/index.m3u8
+https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/BoishakhiTV.webp" group-title="Bangladesh*",Boishakhi TV
 #https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
@@ -145,7 +147,8 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/NagorikTV.png" group-title="Bangladesh*",Nagorik TV
-http://103.151.61.12/Nagorik_TV/video.m3u8
+#http://103.151.61.12/Nagorik_TV/video.m3u8
+https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/MohonaTV.png" group-title="Bangladesh*",Mohona TV
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/index.m3u8
@@ -384,6 +387,12 @@ https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="India • Hindi*",BritAsiaTV
+
+#EXTINF:-1 tvg-logo="" group-title="India • Hindi*",Epic Music
+https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="India • Hindi*",Yrf Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SagaMusic.png" group-title="India • Hindi*",Saga Music HD
 https://amg01412-xiaomiasia-sagamusic-xiaomi-h54ye.amagi.tv/playlist/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
