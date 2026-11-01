@@ -165,7 +165,7 @@ https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/RajdhaniTV.png" group-title="Bangladesh*",Rajdhani TV
 https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/MatribhumiTV.png" group-title="Bangladesh*",Matribhumi TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/MatribhumiTV.jpg" group-title="Bangladesh*",Matribhumi TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/matribhumitv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ATNMusic.png" group-title="Bangladesh*",ATN Music
@@ -226,13 +226,13 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #http://27.124.71.27/Sun_Bangla/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/sanandatv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AkashDigital.png" group-title="Bangladesh*",Amar Bangla 24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AkashDigital.png" group-title="Bangladesh*",Amar Bangla24
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/citizentv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Vision24.png" group-title="Bangladesh*",Vision 24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Vision24.jpg" group-title="Bangladesh*",Vision24
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/vision24.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/News21.png" group-title="Bangladesh*",News 21 Bangla
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/News21.png" group-title="Bangladesh*",News21 Bangla
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Bangla1.png" group-title="Bangladesh*",Bangla One TV
@@ -359,7 +359,7 @@ https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/B4UKadak.png" group-title="India • Hindi*",B4U Kadak
 https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="India • Hindi*",Deewana HD
+#EXTINF:-1 tvg-logo="" group-title="India • Hindi*",Deewana
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="India • Hindi*",Pitaara
@@ -392,9 +392,6 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="India • Hindi*",Epic Music
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="India • Hindi*",Yrf Music
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SagaMusic.png" group-title="India • Hindi*",Saga Music HD
 https://amg01412-xiaomiasia-sagamusic-xiaomi-h54ye.amagi.tv/playlist/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
@@ -437,7 +434,6 @@ https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://dwby15d04agvq.cloudfront.net/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ZeeBollywood.png" group-title="India • Hindi*",Zee Bollywood
-http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Dangal.png" group-title="India • Hindi*",Dangal TV
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
@@ -562,7 +558,6 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AajKiKhabar.png" group-title="India • Hindi*",Aaj Ki Khabar
-https://server.livelegitpro.in/aajkikhabar/aajkikhabar/tracks-v1a1/mono.m3u8
 
 
 
@@ -622,11 +617,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/GBNews.png" group-title="International*",GB News
 https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="International*",RT Now Russia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/RussiaToday.png" group-title="International*",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="International*",DW News
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/EuroNews.png" group-title="International*",EuroNews English
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
@@ -636,9 +628,6 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/CNBC.png" group-title="International*",CNBC
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcuk-samsunggb/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="International*",CNN International
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DiscoveryHD.png" group-title="International*",Discovery HD
 
