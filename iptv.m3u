@@ -692,113 +692,95 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/29309.v8.png",Radio Foorti
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/29309.v8.png" group-title="FM Radio",Radio Foorti
 https://node-11.zeno.fm/f0bfdk2w34zuv
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/29209.v9.png" group-title="FM Radio*",Radio Today
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/29209.v9.png" group-title="FM Radio",Radio Today
 http://stream-144.zeno.fm/8wv4d8g4344tv?zs=OM6q0RfuRDi1X6Tty62qhA
 
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/29210.v6.png",Dhaka FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/29210.v6.png" group-title="FM Radio",Dhaka FM
 http://118.179.219.244:8000/;
 
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/73208.v8.png",Spice FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/73208.v8.png" group-title="FM Radio",Spice FM
 https://stream.spicefmbd.com/stream.m3u8
 
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/84057.v6.png",Jago FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/84057.v6.png" group-title="FM Radio",Jago FM
 http://139.59.86.99:12496/stream/1/
 
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/29428.v7.png",Peoples Radio
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/29428.v7.png",Peoples Radio
 https://s3.myradiostream.com:14498/listen.mp3?nocache=1767616882
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/29211.v5.png" group-title="FM Radio*",Radio Shadhin
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/29211.v5.png" group-title="FM Radio",Radio Shadhin
 http://stream-157.zeno.fm/umq9q5uuva5tv?zs=RZTxFKUnRZeT5gVmKwDoCA
 
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/29432.v11.png",Radio Bhumi
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/29432.v11.png",Radio Bhumi
 https://stream.zeno.fm/be5bqmk1k18uv
 
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/29431.v5.png",Radio Dhoni
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/29431.v5.png",Radio Dhoni
 https://stream.zeno.fm/2yihdjutno9tv
 
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/29437.v8.png",Radio Padma
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/29437.v8.png",Radio Padma
 https://radiopadmabd.radioca.st/stream/1/
 
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/29317.v9.png",Radio GoonGoon
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/29317.v9.png",Radio GoonGoon
 https://audio.streamcast.xyz/radio/8000/radio.mp3
 
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bangla-net.png",Radio BanglaNet
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bangla-net.png",Radio BanglaNet
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/29420.v10.png" group-title="FM Radio*",Traffic FM (88.8)
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/29420.v10.png" group-title="FM Radio",Traffic FM (88.8)
 http://as1.digitalsynapsebd.com:8263/
 
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/29420.v10.png",Commercial FM
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/29420.v10.png",Commercial FM
 http://as1.digitalsynapsebd.com:8456/
 
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/29420.v10.png",Chattogram FM
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/29420.v10.png",BB.Chattogram
 http://as3.digitalsynapsebd.com:9236/
 
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="",Radio Wow
+#EXTINF:-1 group-title="FM Radio" tvg-logo="",Radio Wow
 https://stream-41.zeno.fm/d22wrdbst5quv
 
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/18894.v9.png",Radio Mirchi
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/18894.v9.png",Radio Mirchi UAE
 https://eu8.fastcast4u.com/proxy/clyedupq
 
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://i.postimg.cc/nV0mPF0T/radioin.webp",Office Radio
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://i.postimg.cc/nV0mPF0T/radioin.webp",Office Radio
 https://a2.asurahosting.com:8160/radio.mp3
 
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://radiobarfi.com/wp-content/uploads/2024/04/Red-FM-93.5-Live-Online.png",Red FM
-https://stream.zeno.fm/q97eczydqrhvv
-
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://radiobarfi.com/wp-content/uploads/2024/04/Red-FM-93.5-Live-Online.png",Red FM Delhi
-https://stream.zeno.fm/swfczwfqibptv
-
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/86938.v3.png",Radio Mirchi Tamil
-https://radios.crabdance.com:8002/1
-
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/4320.v9.png" group-title="FM Radio*",radioBolly FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/4320.v9.png" group-title="FM Radio",radioBolly FM
 https://antares.dribbcast.com/proxy/radiobolly/stream.mp3
 
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="",Provat FM
-https://stream.zeno.fm/nlv7ffoe39yvv
-
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/139728.v3.png",Rajshahi FM
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/139728.v3.png",Rajshahi FM
 https://stream.zeno.fm/nxfshdayjrdvv
 
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="",Big FM
+#EXTINF:-1 tvg-logo="" group-title="FM Radio" ,Big FM
 https://stream-156.zeno.fm/dbstwo3dvhhtv
 
-#EXTINF:-1 tvg-logo="" group-title="FM Radio*",Ishq FM
+#EXTINF:-1 tvg-logo="" group-title="FM Radio",Ishq FM
 https://2.mystreaming.net/uber/bollywoodlove/icecast.audio
 
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/betar-torongo.png",Betar Torongo
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/betar-torongo.png",Betar Torongo
 https://stream-151.zeno.fm/v7tnp975wqzuv
 
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/29375.v9.png",FnF.FM Bangla
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/29375.v9.png",FnF.FM Bangla
 http://eu6.fastcast4u.com:5099/;stream
 
-#EXTINF:-1 tvg-logo="" group-title="FM Radio*",Nilphamari FM
+#EXTINF:-1 tvg-logo="" group-title="FM Radio",Nilphamari FM
 https://stream.zeno.fm/eat4pata6nhvv
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/3/117503.v3.png" group-title="FM Radio*",Radio Mahananda
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/3/117503.v3.png" group-title="FM Radio",Radio Mahananda
 https://streaming.radiomahananda.fm/proxy/radiomahananda/stream
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76rLJcn3/Rdo24.png" group-title="FM Radio*",Relaks Radio Bangla
+#EXTINF:-1 tvg-logo="" group-title="FM Radio",Relaks Radio Bangla
 https://s3.voscast.com:9893/live
 
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://i.postimg.cc/76rLJcn3/Rdo24.png",Radio Kolkata
+#EXTINF:-1 tvg-logo="" group-title="FM Radio",Radio Kolkata
 https://stream.zeno.fm/zrn6z8txpuhvv
 
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="",Radio Karatoa
-https://stream.zeno.fm/u7p10xhsutzuv
-
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="",Namaste Bollywood
-https://stream.zeno.fm/cqak4ap7by8uv
-
-#EXTINF:-1 tvg-logo="" group-title="FM Radio*",Radio Retro Bollywood
+#EXTINF:-1 tvg-logo="" group-title="FM Radio",Radio Retro Bollywood
 https://stream-140.zeno.fm/g372rxef798uv?zs=zMsr18fRTH-5eFy8qKIW-g
 
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/84136.v5.png",Uttorbango Betar
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/84136.v5.png" group-title="FM Radio",Uttorbango Betar
 https://stream.zeno.fm/vdrtn8ffgrruv
 
-#EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/90397.v6.png",Radio Purbakantho
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/90397.v6.png" group-title="FM Radio",Radio Purbakantho
 https://stream.zeno.fm/6nuqpxcw81zuv
