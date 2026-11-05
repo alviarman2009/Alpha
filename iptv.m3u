@@ -747,6 +747,9 @@ https://stream.spicefmbd.com/stream.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FM Radio",96.8 Radio Prime
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/969.png" group-title="FM Radio",96.9 Radio Wow
+https://stream-41.zeno.fm/d22wrdbst5quv
+
 #EXTINF:-1 tvg-logo="" group-title="FM Radio",97.2 Times Radio
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/984.png" group-title="FM Radio",98.4 Radio Ekattor
@@ -767,14 +770,14 @@ https://eu8.fastcast4u.com/proxy/clyedupq
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/888.png" group-title="FM Radio",104.0 Commercial Service
 http://as1.digitalsynapsebd.com:8456/
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1048.png" group-title="FM Radio",104.8 Ishq FM
+https://2.mystreaming.net/uber/bollywoodlove/icecast.audio
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/R1.png" group-title="FM Radio",Radio GoonGoon
 https://audio.streamcast.xyz/radio/8000/radio.mp3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/R2.png" group-title="FM Radio",Radio BanglaNet
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC
-
-#EXTINF:-1 tvg-logo="" group-title="FM Radio",Radio Wow
-https://stream-41.zeno.fm/d22wrdbst5quv
 
 #EXTINF:-1 tvg-logo="" group-title="FM Radio",Office Radio
 https://a2.asurahosting.com:8160/radio.mp3
@@ -788,9 +791,6 @@ https://stream.zeno.fm/nxfshdayjrdvv
 #EXTINF:-1 tvg-logo="" group-title="FM Radio" ,BIG FM
 https://stream-156.zeno.fm/dbstwo3dvhhtv
 
-#EXTINF:-1 tvg-logo="" group-title="FM Radio",ISHQ FM
-https://2.mystreaming.net/uber/bollywoodlove/icecast.audio
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/R7.png" group-title="FM Radio",FnF.FM Bangla
 http://eu6.fastcast4u.com:5099/;stream
 
@@ -803,7 +803,7 @@ https://stream-151.zeno.fm/v7tnp975wqzuv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/R6.png" group-title="FM Radio",Uttorbango Betar
 https://stream.zeno.fm/vdrtn8ffgrruv
 
-#EXTINF:-1 tvg-logo="" group-title="FM Radio",Radio Retro Bollywood
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/R10.png" group-title="FM Radio",Radio Retro Bollywood
 https://stream-140.zeno.fm/g372rxef798uv?zs=zMsr18fRTH-5eFy8qKIW-g
 
 #EXTINF:-1 tvg-logo="" group-title="FM Radio",Radio Kolkata
