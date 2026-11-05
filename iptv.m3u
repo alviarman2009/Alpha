@@ -734,7 +734,7 @@ https://mtv.sunplex.live/Radio-dinraat/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/944.png" group-title="FM Radio",94.4 Jago FM
 http://139.59.86.99:12496/stream/1/
 
-#EXTINF:-1 tvg-logo="" group-title="FM Radio",94.8 Capital FM
+#EXTINF:-1 tvg-logo="" group-title="FM Radio",94.8 Radio Capital
 
 #EXTINF:-1 tvg-logo="" group-title="FM Radio",95.2 Bangla Radio
 
@@ -752,11 +752,17 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/984.png" group-title="FM Radio",98.4 Radio Ekattor
 https://vega.streamerr.co:8280/stream
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/988.png" group-title="FM Radio",98.8 Radio Mahananda
+https://centova47.instainternet.com/proxy/bspmorui?mp=/stream
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/992.png" group-title="FM Radio",99.2 Radio Padma
 https://radiopadmabd.radioca.st/stream/1/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1024.png" group-title="FM Radio",102.4 Radio Amber
 http://118.179.215.45:8000/;stream/1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/R9.png" group-title="FM Radio",102.4 Radio Mirchi
+https://eu8.fastcast4u.com/proxy/clyedupq
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/888.png" group-title="FM Radio",104.0 Commercial Service
 http://as1.digitalsynapsebd.com:8456/
@@ -764,11 +770,8 @@ http://as1.digitalsynapsebd.com:8456/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/R1.png" group-title="FM Radio",Radio GoonGoon
 https://audio.streamcast.xyz/radio/8000/radio.mp3
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/R2.png" group-title="FM Radio",Radio Banglanet
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/R2.png" group-title="FM Radio",Radio BanglaNet
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/R9.png" group-title="FM Radio",Radio Mirchi UAE
-https://eu8.fastcast4u.com/proxy/clyedupq
 
 #EXTINF:-1 tvg-logo="" group-title="FM Radio",Radio Wow
 https://stream-41.zeno.fm/d22wrdbst5quv
@@ -782,35 +785,29 @@ https://antares.dribbcast.com/proxy/radiobolly/stream.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/R4.png" group-title="FM Radio",Rajshahi FM
 https://stream.zeno.fm/nxfshdayjrdvv
 
-#EXTINF:-1 tvg-logo="" group-title="FM Radio" ,Big FM
+#EXTINF:-1 tvg-logo="" group-title="FM Radio" ,BIG FM
 https://stream-156.zeno.fm/dbstwo3dvhhtv
 
-#EXTINF:-1 tvg-logo="" group-title="FM Radio",Ishq FM
+#EXTINF:-1 tvg-logo="" group-title="FM Radio",ISHQ FM
 https://2.mystreaming.net/uber/bollywoodlove/icecast.audio
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/R3.png" group-title="FM Radio",Betar Torongo
-https://stream-151.zeno.fm/v7tnp975wqzuv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/R7.png" group-title="FM Radio",FnF.FM Bangla
 http://eu6.fastcast4u.com:5099/;stream
 
-#EXTINF:-1 tvg-logo="" group-title="FM Radio",Nilphamari FM
-https://stream.zeno.fm/eat4pata6nhvv
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/988.png" group-title="FM Radio",98.8 Radio Mahananda Rajshahi
-https://centova47.instainternet.com/proxy/bspmorui?mp=/stream
-
 #EXTINF:-1 tvg-logo="" group-title="FM Radio",Relaks Radio Bangla
 https://s3.voscast.com:9893/live
 
-#EXTINF:-1 tvg-logo="" group-title="FM Radio",Radio Kolkata
-https://stream.zeno.fm/zrn6z8txpuhvv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/R3.png" group-title="FM Radio",Betar Torongo
+https://stream-151.zeno.fm/v7tnp975wqzuv
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/R6.png" group-title="FM Radio",Uttorbango Betar
+https://stream.zeno.fm/vdrtn8ffgrruv
 
 #EXTINF:-1 tvg-logo="" group-title="FM Radio",Radio Retro Bollywood
 https://stream-140.zeno.fm/g372rxef798uv?zs=zMsr18fRTH-5eFy8qKIW-g
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/R6.png" group-title="FM Radio",Uttorbango Betar
-https://stream.zeno.fm/vdrtn8ffgrruv
+#EXTINF:-1 tvg-logo="" group-title="FM Radio",Radio Kolkata
+https://stream.zeno.fm/zrn6z8txpuhvv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/R5.png" group-title="FM Radio",Radio Purbakantho
 https://stream.zeno.fm/6nuqpxcw81zuv
