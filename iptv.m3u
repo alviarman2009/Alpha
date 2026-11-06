@@ -154,7 +154,7 @@ https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DurontoTV.png" group-title="Bangladesh*",Duronto TV
-https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/RajdhaniTV.png" group-title="Bangladesh*",Rajdhani TV
 https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
@@ -186,7 +186,7 @@ https://live.cbntvusa.net/hls/cbntv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/NRBTV.png" group-title="Bangladesh*",NRB TV
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AkashDigital.png" group-title="Bangladesh*",Channel 52
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Channel52.jpg" group-title="Bangladesh*",Channel 52
 http://str24.l9574.com/503.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ChannelSUK.png" group-title="Bangladesh*",Channel S UK
@@ -194,6 +194,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ChannelEurope.png" group-title="Bangladesh*",Channel Europe
 https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/TimeTV.png" group-title="Bangladesh*",Time TV
+https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DeshiTV.png" group-title="Bangladesh*",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
@@ -203,7 +206,7 @@ http://158.69.24.53:8080/probashi_tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/JonmoBhumiTV.png" group-title="Bangladesh*",Jonmobhumi TV
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DesheBidesheTV.png" group-title="Bangladesh*",Deshebideshe TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/DesheBidesheTV.png" group-title="Bangladesh*",DesheBideshe TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshebideshe.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/GSeries.png" group-title="Bangladesh*",G Series
@@ -342,7 +345,7 @@ https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/B4UKadak.png" group-title="India • Hindi*",B4U Kadak
 https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="India • Hindi*",Deewana
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Deewana2.jpg" group-title="India • Hindi*",Deewana
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="India • Hindi*",Pitaara
