@@ -692,8 +692,7 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/880.webp" group-title="FM Radio",88.0 Radio Foorti
-#https://node-11.zeno.fm/f0bfdk2w34zuv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/880.png" group-title="FM Radio",88.0 Radio Foorti
 https://radiofoorti.fm/api/stream
 
 #EXTINF:-1 tvg-logo="" group-title="FM Radio",88.4 Radio Aamar
