@@ -39,8 +39,7 @@ https://dish.porosh.com.bd/hls/jalshabangla.m3u8
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Channel1.png" group-title="Bangladesh*",Channel 1
-#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
-https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1CHANNEL9.png" group-title="Bangladesh*",Channel 9
 
@@ -132,8 +131,6 @@ http://116.204.149.16/globaltv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1BANGLATV.png" group-title="Bangladesh*",Bangla TV
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/BanglaTVEurope.png" group-title="Bangladesh*",Bangla TV Europe
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/IslamicTV.png" group-title="Bangladesh*",Islamic TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
@@ -264,37 +261,37 @@ https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Deewana2.jpg" group-title="India*",Deewana
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="India*",Pitaara
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AkashDigital.png" group-title="India*",Pitaara
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="India*",Sana Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AkashDigital.png" group-title="India*",Sana Plus
 https://galaxyott.live/hls/sanaplus.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="India*",Balle Balle
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AkashDigital.png" group-title="India*",Balle Balle
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/MusicIndia.png" group-title="India*",Music India
 
-#EXTINF:-1 tvg-logo="" group-title="India*",Joo Music
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AkashDigital.png" group-title="India*",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="India*",Public Music
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AkashDigital.png" group-title="India*",Public Music
 https://cdn-3.pishow.tv/live/441/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="India*",PTC Music
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AkashDigital.png" group-title="India*",PTC Music
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="India*",Steelbird Music
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AkashDigital.png" group-title="India*",Steelbird Music
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/ShowBox.png"group-title="India*",ShowBox
 
-#EXTINF:-1 tvg-logo="" group-title="India*",Hindi Hits
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AkashDigital.png" group-title="India*",Hindi Hits
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="India*",BritAsiaTV
 
-#EXTINF:-1 tvg-logo="" group-title="India*",Epic Music
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AkashDigital.png" group-title="India*",Epic Music
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/SagaMusic.png" group-title="India*",Saga Music
@@ -356,7 +353,7 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/B4UMovies.png" group-title="India*",B4U Movies
 
-#EXTINF:-1 tvg-logo="" group-title="India*",Bhojpuri Cinema
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AkashDigital.png" group-title="India*",Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/WildFlix.png" group-title="India*",Wild Flix Hindi
@@ -772,7 +769,7 @@ https://audio.streamcast.xyz/radio/8000/radio.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/R2.png" group-title="FM Radio",Radio BanglaNet
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC
 
-#EXTINF:-1 tvg-logo="" group-title="FM Radio",Office Radio
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AkashDigital.png" group-title="FM Radio",Office Radio
 https://a2.asurahosting.com:8160/radio.mp3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/R8.png" group-title="FM Radio",radioBolly FM
@@ -781,13 +778,13 @@ https://antares.dribbcast.com/proxy/radiobolly/stream.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/R4.png" group-title="FM Radio",Rajshahi FM
 https://stream.zeno.fm/nxfshdayjrdvv
 
-#EXTINF:-1 tvg-logo="" group-title="FM Radio" ,BIG FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AkashDigital.png" group-title="FM Radio" ,BIG FM
 https://stream-156.zeno.fm/dbstwo3dvhhtv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/R7.png" group-title="FM Radio",FnF.FM Bangla
 http://eu6.fastcast4u.com:5099/;stream
 
-#EXTINF:-1 tvg-logo="" group-title="FM Radio",Relaks Radio Bangla
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AkashDigital.png" group-title="FM Radio",Relaks Radio Bangla
 https://s3.voscast.com:9893/live
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/R3.png" group-title="FM Radio",Betar Torongo
@@ -799,7 +796,7 @@ https://stream.zeno.fm/vdrtn8ffgrruv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/R10.png" group-title="FM Radio",Radio Retro Bollywood
 https://stream-140.zeno.fm/g372rxef798uv?zs=zMsr18fRTH-5eFy8qKIW-g
 
-#EXTINF:-1 tvg-logo="" group-title="FM Radio",Radio Kolkata
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/AkashDigital.png" group-title="FM Radio",Radio Kolkata
 https://stream.zeno.fm/zrn6z8txpuhvv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/R5.png" group-title="FM Radio",Radio Purbakantho
