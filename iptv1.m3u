@@ -751,6 +751,9 @@ https://centova47.instainternet.com/proxy/bspmorui?mp=/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/992.png" group-title="FM Radio",99.2 Radio Padma
 https://radiopadmabd.radioca.st/stream/1/
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1023.png" group-title="FM Radio",102.3 Now! Radio
+https://videostream.jpbgdigital.com/NOWTV.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/1024.png" group-title="FM Radio",102.4 Radio Amber
 http://118.179.215.45:8000/;stream/1
 
